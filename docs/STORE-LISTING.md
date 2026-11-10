@@ -27,7 +27,7 @@ https://chrome.google.com/webstore/devconsole.
    The store runs automatic install checks on every uploaded draft; if one fails, fix it and upload again before
    submitting.
 5. **Store listing tab.**
-   - Paste the long description below and choose the category (Productivity).
+   - Paste the long description below and choose the language English and the category Education (listed under Productivity).
    - Upload the 128x128 store icon (`public/icons/128.png`) and 1 to 5 screenshots at 1280x800. The icon and one
      screenshot are the only required images.
    - A 440x280 small promo tile is optional, but listings without one are shown after those that have one.
@@ -106,7 +106,7 @@ Privacy: when you run a check, the reference details of that paper (titles, auth
 
 ## Category suggestion
 
-- Chrome Web Store: Productivity (alternative: Education).
+- Chrome Web Store: Education, listed under the Productivity group (alternative: Tools).
 - Edge Add-ons: Productivity.
 - Firefox Add-ons: Search Tools or Other (Firefox has no category for scholarly tools; choose the closest at submission).
 
