@@ -1,0 +1,1440 @@
+[
+  {
+    "id": "fx01",
+    "style": "numeric",
+    "source": "arXiv:1706.03762 reference 5",
+    "label": "[5]",
+    "text": "[5] Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Fethi Bougares, Holger Schwenk, and Yoshua Bengio. Learning phrase representations using rnn encoder-decoder for statistical machine translation. CoRR, abs/1406.1078, 2014.",
+    "blocks": [
+      "Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Fethi Bougares, Holger Schwenk, and Yoshua Bengio.",
+      "Learning phrase representations using rnn encoder-decoder for statistical machine translation.",
+      "CoRR, abs/1406.1078, 2014."
+    ],
+    "expect": {
+      "title": "Learning phrase representations using rnn encoder-decoder for statistical machine translation",
+      "year": 2014,
+      "arxivId": "1406.1078",
+      "kind": "paper",
+      "authors": [
+        "cho",
+        "van merrienboer",
+        "gulcehre"
+      ]
+    }
+  },
+  {
+    "id": "fx02",
+    "style": "numeric",
+    "source": "arXiv:1706.03762 reference 2",
+    "label": "[2]",
+    "text": "[2] Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. Neural machine translation by jointly learning to align and translate. CoRR, abs/1409.0473, 2014.",
+    "expect": {
+      "title": "Neural machine translation by jointly learning to align and translate",
+      "year": 2014,
+      "arxivId": "1409.0473",
+      "kind": "paper",
+      "authors": [
+        "bahdanau",
+        "cho",
+        "bengio"
+      ]
+    }
+  },
+  {
+    "id": "fx03",
+    "style": "numeric",
+    "source": "arXiv:1706.03762 reference 1",
+    "label": "[1]",
+    "text": "[1] Jimmy Lei Ba, Jamie Ryan Kiros, and Geoffrey E Hinton. Layer normalization. arXiv preprint arXiv:1607.06450, 2016.",
+    "blocks": [
+      "Jimmy Lei Ba, Jamie Ryan Kiros, and Geoffrey E Hinton.",
+      "Layer normalization.",
+      "arXiv preprint arXiv:1607.06450, 2016."
+    ],
+    "expect": {
+      "title": "Layer normalization",
+      "year": 2016,
+      "arxivId": "1607.06450",
+      "kind": "paper",
+      "authors": [
+        "ba",
+        "kiros",
+        "hinton"
+      ]
+    }
+  },
+  {
+    "id": "fx04",
+    "style": "numeric",
+    "source": "arXiv:1706.03762 reference 3",
+    "label": "[3]",
+    "text": "Denny Britz, Anna Goldie, Minh-Thang Luong, and Quoc V. Le. Massive exploration of neural machine translation architectures. CoRR, abs/1703.03906, 2017.",
+    "expect": {
+      "title": "Massive exploration of neural machine translation architectures",
+      "year": 2017,
+      "arxivId": "1703.03906",
+      "kind": "paper",
+      "authors": [
+        "britz",
+        "goldie",
+        "luong"
+      ]
+    }
+  },
+  {
+    "id": "fx05",
+    "style": "numeric",
+    "source": "arXiv:1706.03762 reference 4",
+    "label": "[4]",
+    "text": "[4] Jianpeng Cheng, Li Dong, and Mirella Lapata. Long short-term memory-networks for machine reading. arXiv preprint arXiv:1601.06733, 2016.",
+    "blocks": [
+      "Jianpeng Cheng, Li Dong, and Mirella Lapata.",
+      "Long short-term memory-networks for machine reading.",
+      "arXiv preprint arXiv:1601.06733, 2016."
+    ],
+    "expect": {
+      "title": "Long short-term memory-networks for machine reading",
+      "year": 2016,
+      "arxivId": "1601.06733",
+      "kind": "paper",
+      "authors": [
+        "cheng",
+        "dong",
+        "lapata"
+      ]
+    }
+  },
+  {
+    "id": "fx06",
+    "style": "numeric-initials",
+    "source": "arXiv:1512.03385 reference 8",
+    "label": "[8]",
+    "text": "[8] R. Girshick, J. Donahue, T. Darrell, and J. Malik. Rich feature hierarchies for accurate object detection and semantic segmentation. In CVPR, 2014.",
+    "expect": {
+      "title": "Rich feature hierarchies for accurate object detection and semantic segmentation",
+      "year": 2014,
+      "kind": "paper",
+      "authors": [
+        "girshick",
+        "donahue",
+        "darrell"
+      ]
+    }
+  },
+  {
+    "id": "fx07",
+    "style": "numeric-initials",
+    "source": "arXiv:1512.03385 reference 14",
+    "label": "[14]",
+    "text": "[14] G. E. Hinton, N. Srivastava, A. Krizhevsky, I. Sutskever, and R. R. Salakhutdinov. Improving neural networks by preventing co-adaptation of feature detectors. arXiv:1207.0580, 2012.",
+    "blocks": [
+      "G. E. Hinton, N. Srivastava, A. Krizhevsky, I. Sutskever, and R. R. Salakhutdinov.",
+      "Improving neural networks by preventing co-adaptation of feature detectors.",
+      "arXiv:1207.0580, 2012."
+    ],
+    "expect": {
+      "title": "Improving neural networks by preventing co-adaptation of feature detectors",
+      "year": 2012,
+      "arxivId": "1207.0580",
+      "kind": "paper",
+      "authors": [
+        "hinton",
+        "srivastava",
+        "krizhevsky"
+      ]
+    }
+  },
+  {
+    "id": "fx08",
+    "style": "numeric-initials",
+    "source": "arXiv:1512.03385 reference 2",
+    "label": "[2]",
+    "text": "[2] C. M. Bishop. Neural networks for pattern recognition. Oxford university press, 1995.",
+    "blocks": [
+      "C. M. Bishop.",
+      "Neural networks for pattern recognition.",
+      "Oxford university press, 1995."
+    ],
+    "expect": {
+      "title": "Neural networks for pattern recognition",
+      "year": 1995,
+      "kind": "book",
+      "authors": [
+        "bishop"
+      ]
+    }
+  },
+  {
+    "id": "fx09",
+    "style": "numeric-initials",
+    "source": "arXiv:1512.03385 reference 20",
+    "label": "[20]",
+    "text": "[20] A. Krizhevsky. Learning multiple layers of features from tiny images. Tech Report, 2009.",
+    "expect": {
+      "title": "Learning multiple layers of features from tiny images",
+      "year": 2009,
+      "kind": "unknown",
+      "authors": [
+        "krizhevsky"
+      ]
+    }
+  },
+  {
+    "id": "fx10",
+    "style": "numeric-initials",
+    "source": "arXiv:1512.03385 reference 26",
+    "label": "[26]",
+    "text": "T.-Y. Lin, M. Maire, S. Belongie, J. Hays, P. Perona, D. Ramanan, P. Dollár, and C. L. Zitnick. Microsoft COCO: Common objects in context. In ECCV. 2014.",
+    "expect": {
+      "title": "Microsoft COCO: Common objects in context",
+      "year": 2014,
+      "kind": "paper",
+      "authors": [
+        "lin",
+        "maire",
+        "belongie"
+      ]
+    }
+  },
+  {
+    "id": "fx11",
+    "style": "numeric-initials",
+    "source": "arXiv:1512.03385 reference 23",
+    "label": "[23]",
+    "text": "[23] Y. LeCun, L. Bottou, G. B. Orr, and K.-R. Müller. Efficient backprop. In Neural Networks: Tricks of the Trade, pages 9–50. Springer, 1998.",
+    "expect": {
+      "title": "Efficient backprop",
+      "year": 1998,
+      "kind": "paper",
+      "authors": [
+        "lecun",
+        "bottou",
+        "orr"
+      ]
+    }
+  },
+  {
+    "id": "fx12",
+    "style": "numeric",
+    "source": "arXiv:2005.14165 reference 14",
+    "label": "[14]",
+    "text": "[14] Peter Clark, Isaac Cowhey, Oren Etzioni, Tushar Khot, Ashish Sabharwal, Carissa Schoenick, and Oyvind Tafjord. Think you have solved question answering? try arc, the ai2 reasoning challenge. ArXiv, abs/1803.05457, 2018.",
+    "blocks": [
+      "Peter Clark, Isaac Cowhey, Oren Etzioni, Tushar Khot, Ashish Sabharwal, Carissa Schoenick, and Oyvind Tafjord.",
+      "Think you have solved question answering? try arc, the ai2 reasoning challenge.",
+      "ArXiv, abs/1803.05457, 2018."
+    ],
+    "expect": {
+      "title": "Think you have solved question answering? try arc, the ai2 reasoning challenge",
+      "year": 2018,
+      "arxivId": "1803.05457",
+      "kind": "paper",
+      "authors": [
+        "clark",
+        "cowhey",
+        "etzioni"
+      ]
+    }
+  },
+  {
+    "id": "fx13",
+    "style": "numeric",
+    "source": "arXiv:2005.14165 reference 122",
+    "label": "[122]",
+    "text": "[122] Roy Schwartz, Jesse Dodge, Noah A. Smith, and Oren Etzioni. Green AI. CoRR, abs/1907.10597, 2019.",
+    "expect": {
+      "title": "Green AI",
+      "year": 2019,
+      "arxivId": "1907.10597",
+      "kind": "paper",
+      "authors": [
+        "schwartz",
+        "dodge",
+        "smith"
+      ]
+    }
+  },
+  {
+    "id": "fx14",
+    "style": "numeric",
+    "source": "arXiv:2005.14165 reference 134",
+    "label": "[134]",
+    "text": "[134] Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. Attention is all you need. In Advances in neural information processing systems, 2017.",
+    "blocks": [
+      "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin.",
+      "Attention is all you need.",
+      "In Advances in neural information processing systems, 2017."
+    ],
+    "expect": {
+      "title": "Attention is all you need",
+      "year": 2017,
+      "kind": "paper",
+      "authors": [
+        "vaswani",
+        "shazeer",
+        "parmar"
+      ]
+    }
+  },
+  {
+    "id": "fx15",
+    "style": "numeric",
+    "source": "arXiv:2005.14165 reference 128",
+    "label": "[128]",
+    "text": "[128] Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, and Pieter Abbeel. Domain randomization for transferring deep neural networks from simulation to the real world. In 2017 IEEE/RSJ international conference on intelligent robots and systems (IROS), pages 23–30. IEEE, 2017.",
+    "expect": {
+      "title": "Domain randomization for transferring deep neural networks from simulation to the real world",
+      "year": 2017,
+      "kind": "paper",
+      "authors": [
+        "tobin",
+        "fong",
+        "ray"
+      ]
+    }
+  },
+  {
+    "id": "fx16",
+    "style": "numeric",
+    "source": "arXiv:2005.14165 reference 56",
+    "label": "[56]",
+    "text": "[56] Sarah E. Kreps, Miles McCain, and Miles Brundage. All the news that’s fit to fabricate: Ai-generated text as a tool of media misinformation, 2020.",
+    "blocks": [
+      "Sarah E. Kreps, Miles McCain, and Miles Brundage.",
+      "All the news that’s fit to fabricate: Ai-generated text as a tool of media misinformation, 2020."
+    ],
+    "expect": {
+      "title": "All the news that’s fit to fabricate: Ai-generated text as a tool of media misinformation",
+      "year": 2020,
+      "kind": "unknown",
+      "authors": [
+        "kreps",
+        "mccain",
+        "brundage"
+      ]
+    }
+  },
+  {
+    "id": "fx17",
+    "style": "numeric",
+    "source": "arXiv:2005.14165 reference 25",
+    "label": "[25]",
+    "text": "[25] Marie-Catherine De Marneffe, Mandy Simons, and Judith Tonhauser. The CommitmentBank: Investigating projection in naturally occurring discourse. 2019. To appear in proceedings of Sinn und Bedeutung 23. Data can be found at https://github.com/mcdm/CommitmentBank/.",
+    "blocks": [
+      "Marie-Catherine De Marneffe, Mandy Simons, and Judith Tonhauser.",
+      "The CommitmentBank: Investigating projection in naturally occurring discourse.",
+      "2019.",
+      "To appear in proceedings of Sinn und Bedeutung 23. Data can be found at https://github.com/mcdm/CommitmentBank/."
+    ],
+    "expect": {
+      "title": "The CommitmentBank: Investigating projection in naturally occurring discourse",
+      "year": 2019,
+      "kind": "paper",
+      "authors": [
+        "de marneffe",
+        "simons",
+        "tonhauser"
+      ]
+    }
+  },
+  {
+    "id": "fx18",
+    "style": "numeric",
+    "source": "arXiv:2005.14165 reference 86",
+    "label": "[86]",
+    "text": "[86] Mitchell Marcus, Grace Kim, Mary Ann Marcinkiewicz, Robert MacIntyre, Ann Bies, Mark Ferguson, Karen Katz, and Britta Schasberger. The penn treebank: annotating predicate argument structure. In Proceedings of the workshop on Human Language Technology, pages 114–119. Association for Computational Linguistics, 1994.",
+    "expect": {
+      "title": "The penn treebank: annotating predicate argument structure",
+      "year": 1994,
+      "kind": "paper",
+      "authors": [
+        "marcus",
+        "kim",
+        "marcinkiewicz"
+      ]
+    }
+  },
+  {
+    "id": "fx19",
+    "style": "numeric",
+    "source": "arXiv:2005.14165 reference 50",
+    "label": "[50]",
+    "text": "[50] Zheng Junyuan and Gamma Lab NYC. Numeric transformer - albert, March 2020.",
+    "blocks": [
+      "Zheng Junyuan and Gamma Lab NYC.",
+      "Numeric transformer - albert, March 2020."
+    ],
+    "expect": {
+      "title": "Numeric transformer - albert",
+      "year": 2020,
+      "kind": "unknown"
+    }
+  },
+  {
+    "id": "fx20",
+    "style": "acl",
+    "source": "arXiv:1810.04805 reference 2",
+    "label": "Al-Rfou et al. (2018)",
+    "text": "Al-Rfou et al. (2018) Rami Al-Rfou, Dokook Choe, Noah Constant, Mandy Guo, and Llion Jones. 2018. Character-level language modeling with deeper self-attention. arXiv preprint arXiv:1808.04444.",
+    "blocks": [
+      "Rami Al-Rfou, Dokook Choe, Noah Constant, Mandy Guo, and Llion Jones. 2018.",
+      "Character-level language modeling with deeper self-attention.",
+      "arXiv preprint arXiv:1808.04444."
+    ],
+    "expect": {
+      "title": "Character-level language modeling with deeper self-attention",
+      "year": 2018,
+      "arxivId": "1808.04444",
+      "kind": "paper",
+      "authors": [
+        "al rfou",
+        "choe",
+        "constant"
+      ]
+    }
+  },
+  {
+    "id": "fx21",
+    "style": "acl",
+    "source": "arXiv:1810.04805 reference 8",
+    "label": "Cer et al. (2017)",
+    "text": "Cer et al. (2017) Daniel Cer, Mona Diab, Eneko Agirre, Inigo Lopez-Gazpio, and Lucia Specia. 2017. Semeval-2017 task 1: Semantic textual similarity multilingual and crosslingual focused evaluation. In Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017), pages 1–14, Vancouver, Canada. Association for Computational Linguistics.",
+    "expect": {
+      "title": "Semeval-2017 task 1: Semantic textual similarity multilingual and crosslingual focused evaluation",
+      "year": 2017,
+      "kind": "paper",
+      "authors": [
+        "cer",
+        "diab",
+        "agirre"
+      ]
+    }
+  },
+  {
+    "id": "fx22",
+    "style": "acl",
+    "source": "arXiv:1810.04805 reference 32",
+    "label": "Mnih and Hinton (2009)",
+    "text": "Andriy Mnih and Geoffrey E Hinton. 2009. A scalable hierarchical distributed language model. In D. Koller, D. Schuurmans, Y. Bengio, and L. Bottou, editors, Advances in Neural Information Processing Systems 21, pages 1081–1088. Curran Associates, Inc.",
+    "expect": {
+      "title": "A scalable hierarchical distributed language model",
+      "year": 2009,
+      "kind": "paper",
+      "authors": [
+        "mnih",
+        "hinton"
+      ]
+    }
+  },
+  {
+    "id": "fx23",
+    "style": "acl",
+    "source": "arXiv:1810.04805 reference 44",
+    "label": "Tjong Kim Sang and De Meulder (2003)",
+    "text": "Tjong Kim Sang and De Meulder (2003) Erik F Tjong Kim Sang and Fien De Meulder. 2003. Introduction to the conll-2003 shared task: Language-independent named entity recognition. In CoNLL.",
+    "expect": {
+      "title": "Introduction to the conll-2003 shared task: Language-independent named entity recognition",
+      "year": 2003,
+      "kind": "paper"
+    }
+  },
+  {
+    "id": "fx24",
+    "style": "acl",
+    "source": "arXiv:1810.04805 reference 38",
+    "label": "Radford et al. (2018)",
+    "text": "Radford et al. (2018) Alec Radford, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. 2018. Improving language understanding with unsupervised learning. Technical report, OpenAI.",
+    "blocks": [
+      "Alec Radford, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. 2018.",
+      "Improving language understanding with unsupervised learning.",
+      "Technical report, OpenAI."
+    ],
+    "expect": {
+      "title": "Improving language understanding with unsupervised learning",
+      "year": 2018,
+      "kind": "unknown",
+      "authors": [
+        "radford",
+        "narasimhan",
+        "salimans"
+      ]
+    }
+  },
+  {
+    "id": "fx25",
+    "style": "author-year",
+    "source": "arXiv:2307.09288 reference 2",
+    "label": "Ainslie et al. (2023)",
+    "text": "Ainslie et al. (2023) Joshua Ainslie, James Lee-Thorp, Michiel de Jong, Yury Zemlyanskiy, Federico Lebrón, and Sumit Sanghai. Gqa: Training generalized multi-query transformer models from multi-head checkpoints, 2023.",
+    "blocks": [
+      "Joshua Ainslie, James Lee-Thorp, Michiel de Jong, Yury Zemlyanskiy, Federico Lebrón, and Sumit Sanghai.",
+      "Gqa: Training generalized multi-query transformer models from multi-head checkpoints, 2023."
+    ],
+    "expect": {
+      "title": "Gqa: Training generalized multi-query transformer models from multi-head checkpoints",
+      "year": 2023,
+      "kind": "unknown",
+      "authors": [
+        "ainslie",
+        "lee thorp",
+        "de jong"
+      ]
+    }
+  },
+  {
+    "id": "fx26",
+    "style": "author-year",
+    "source": "arXiv:2307.09288 reference 116",
+    "label": "Vaswani et al. (2017)",
+    "text": "Vaswani et al. (2017) Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. Attention is all you need, 2017.",
+    "blocks": [
+      "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin.",
+      "Attention is all you need, 2017."
+    ],
+    "expect": {
+      "title": "Attention is all you need",
+      "year": 2017,
+      "kind": "unknown",
+      "authors": [
+        "vaswani",
+        "shazeer",
+        "parmar"
+      ]
+    }
+  },
+  {
+    "id": "fx27",
+    "style": "author-year",
+    "source": "arXiv:2307.09288 reference 62",
+    "label": "Kirkpatrick et al. (2017)",
+    "text": "Kirkpatrick et al. (2017) James Kirkpatrick, Razvan Pascanu, Neil Rabinowitz, Joel Veness, Guillaume Desjardins, Andrei A Rusu, Kieran Milan, John Quan, Tiago Ramalho, Agnieszka Grabska-Barwinska, et al. Overcoming catastrophic forgetting in neural networks. Proceedings of the national academy of sciences, 114(13):3521–3526, 2017.",
+    "expect": {
+      "title": "Overcoming catastrophic forgetting in neural networks",
+      "year": 2017,
+      "kind": "paper",
+      "authors": [
+        "kirkpatrick",
+        "pascanu",
+        "rabinowitz"
+      ]
+    }
+  },
+  {
+    "id": "fx28",
+    "style": "author-year",
+    "source": "arXiv:2307.09288 reference 50",
+    "label": "(50)",
+    "text": "(50) Alex Havrilla. synthetic-instruct-gptj-pairwise. https://huggingface.co/datasets/Dahoas/synthetic-instruct-gptj-pairwise.",
+    "blocks": [
+      "Alex Havrilla.",
+      "synthetic-instruct-gptj-pairwise.",
+      "https://huggingface.co/datasets/Dahoas/synthetic-instruct-gptj-pairwise."
+    ],
+    "expect": {
+      "title": "synthetic-instruct-gptj-pairwise",
+      "year": null,
+      "kind": "web",
+      "authors": [
+        "havrilla"
+      ]
+    }
+  },
+  {
+    "id": "fx29",
+    "style": "author-year",
+    "source": "arXiv:2307.09288 reference 68",
+    "label": "Lambert et al. (2023)",
+    "text": "Lambert et al. (2023) Nathan Lambert, Lewis Tunstall, Nazneen Rajani, and Tristan Thrush. Huggingface h4 stack exchange preference dataset. 2023. URL https://huggingface.co/datasets/HuggingFaceH4/stack-exchange-preferences.",
+    "blocks": [
+      "Nathan Lambert, Lewis Tunstall, Nazneen Rajani, and Tristan Thrush.",
+      "Huggingface h4 stack exchange preference dataset.",
+      "2023.",
+      "URL https://huggingface.co/datasets/HuggingFaceH4/stack-exchange-preferences."
+    ],
+    "expect": {
+      "title": "Huggingface h4 stack exchange preference dataset",
+      "year": 2023,
+      "kind": "web",
+      "authors": [
+        "lambert",
+        "tunstall",
+        "rajani"
+      ]
+    }
+  },
+  {
+    "id": "fx30",
+    "style": "author-year",
+    "source": "arXiv:2307.09288 reference 8",
+    "label": "Autor and Salomons (2018)",
+    "text": "Autor and Salomons (2018) David Autor and Anna Salomons. Is automation labor-displacing? productivity growth, employment, and the labor share. Technical report, National Bureau of Economic Research, 2018.",
+    "expect": {
+      "title": "Is automation labor-displacing? productivity growth, employment, and the labor share",
+      "year": 2018,
+      "kind": "unknown",
+      "authors": [
+        "autor",
+        "salomons"
+      ]
+    }
+  },
+  {
+    "id": "fx31",
+    "style": "acm",
+    "source": "arXiv:2108.07258 reference 36",
+    "label": "Andreas (2020)",
+    "text": "Andreas (2020) Jacob Andreas. 2020. Good-Enough Compositional Data Augmentation. Association for Computational Linguistics (July 2020), 7556–7566. https://doi.org/10.18653/v1/2020.acl-main.676",
+    "blocks": [
+      "Jacob Andreas. 2020.",
+      "Good-Enough Compositional Data Augmentation.",
+      "Association for Computational Linguistics (July 2020), 7556–7566.",
+      "https://doi.org/10.18653/v1/2020.acl-main.676"
+    ],
+    "expect": {
+      "title": "Good-Enough Compositional Data Augmentation",
+      "year": 2020,
+      "doi": "10.18653/v1/2020.acl-main.676",
+      "kind": "paper",
+      "authors": [
+        "andreas"
+      ]
+    }
+  },
+  {
+    "id": "fx32",
+    "style": "acm",
+    "source": "arXiv:2108.07258 reference 87",
+    "label": "Bender et al.",
+    "text": "Bender et al. (2021) Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (Virtual Event, Canada) (FAccT ’21). Association for Computing Machinery, New York, NY, USA, 610–623. https://doi.org/10.1145/3442188.3445922",
+    "expect": {
+      "title": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?",
+      "year": 2021,
+      "doi": "10.1145/3442188.3445922",
+      "kind": "paper",
+      "authors": [
+        "bender",
+        "gebru",
+        "mcmillan major"
+      ]
+    }
+  },
+  {
+    "id": "fx33",
+    "style": "acm",
+    "source": "arXiv:2108.07258 reference 127",
+    "label": "Bowman and Dahl (2021)",
+    "text": "Bowman and Dahl (2021) Samuel R. Bowman and George Dahl. 2021. What Will it Take to Fix Benchmarking in Natural Language Understanding?. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. Association for Computational Linguistics, Online, 4843–4855. https://doi.org/10.18653/v1/2021.naacl-main.385",
+    "blocks": [
+      "Samuel R. Bowman and George Dahl. 2021.",
+      "What Will it Take to Fix Benchmarking in Natural Language Understanding?. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. Association for Computational Linguistics, Online, 4843–4855.",
+      "https://doi.org/10.18653/v1/2021.naacl-main.385"
+    ],
+    "expect": {
+      "title": "What Will it Take to Fix Benchmarking in Natural Language Understanding?",
+      "year": 2021,
+      "doi": "10.18653/v1/2021.naacl-main.385",
+      "kind": "paper",
+      "authors": [
+        "bowman",
+        "dahl"
+      ]
+    }
+  },
+  {
+    "id": "fx34",
+    "style": "acm",
+    "source": "arXiv:2108.07258 reference 89",
+    "label": "Bengio et al.",
+    "text": "Bengio et al. (2021) Yoshua Bengio, Andrea Lodi, and Antoine Prouvost. 2021. Machine learning for combinatorial optimization: A methodological tour d’horizon. Eur. J. Oper. Res. 290, 2 (2021), 405–421. https://doi.org/10.1016/j.ejor.2020.07.063",
+    "expect": {
+      "title": "Machine learning for combinatorial optimization: A methodological tour d’horizon",
+      "year": 2021,
+      "doi": "10.1016/j.ejor.2020.07.063",
+      "kind": "paper",
+      "authors": [
+        "bengio",
+        "lodi",
+        "prouvost"
+      ]
+    }
+  },
+  {
+    "id": "fx35",
+    "style": "acm",
+    "source": "arXiv:2108.07258 reference 100",
+    "label": "Biederman (1972)",
+    "text": "Biederman (1972) I. Biederman. 1972. Perceiving real-world scenes. Science (New York, N.Y.) 177, 4043 (July 1972), 77–80. https://doi.org/10.1126/science.177.4043.77",
+    "expect": {
+      "title": "Perceiving real-world scenes",
+      "year": 1972,
+      "doi": "10.1126/science.177.4043.77",
+      "kind": "paper",
+      "authors": [
+        "biederman"
+      ]
+    }
+  },
+  {
+    "id": "fx36",
+    "style": "acm",
+    "source": "arXiv:2108.07258 reference 128",
+    "label": "Bradbury et al.",
+    "text": "Bradbury et al. (2018) James Bradbury, Roy Frostig, Peter Hawkins, Matthew James Johnson, Chris Leary, Dougal Maclaurin, George Necula, Adam Paszke, Jake VanderPlas, Skye Wanderman-Milne, and Qiao Zhang. 2018. JAX: Composable Transformations of Python+NumPy Programs. http://github.com/google/jax",
+    "blocks": [
+      "James Bradbury, Roy Frostig, Peter Hawkins, Matthew James Johnson, Chris Leary, Dougal Maclaurin, George Necula, Adam Paszke, Jake VanderPlas, Skye Wanderman-Milne, and Qiao Zhang. 2018.",
+      "JAX: Composable Transformations of Python+NumPy Programs.",
+      "http://github.com/google/jax"
+    ],
+    "expect": {
+      "title": "JAX: Composable Transformations of Python+NumPy Programs",
+      "year": 2018,
+      "kind": "software",
+      "authors": [
+        "bradbury",
+        "frostig",
+        "hawkins"
+      ]
+    }
+  },
+  {
+    "id": "fx37",
+    "style": "acm",
+    "source": "arXiv:2108.07258 reference 109",
+    "label": "Blodgett et al.",
+    "text": "Blodgett et al. (2020) Su Lin Blodgett, Solon Barocas, Hal Daumé III, and Hanna Wallach. 2020. Language (Technology) is Power: A Critical Survey of “Bias” in NLP. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. Association for Computational Linguistics, 5454–5476. https://doi.org/10.18653/v1/2020.acl-main.485",
+    "expect": {
+      "title": "Language (Technology) is Power: A Critical Survey of “Bias” in NLP",
+      "year": 2020,
+      "doi": "10.18653/v1/2020.acl-main.485",
+      "kind": "paper",
+      "authors": [
+        "blodgett",
+        "barocas"
+      ]
+    }
+  },
+  {
+    "id": "fx38",
+    "style": "acm",
+    "source": "arXiv:2108.07258 reference 7",
+    "label": "Acemoglu (2021)",
+    "text": "Acemoglu (2021) Daron Acemoglu. 2021. Redesigning AI. MIT Press. https://books.google.com/books?id=HBb6DwAAQBAJ",
+    "blocks": [
+      "Daron Acemoglu. 2021.",
+      "Redesigning AI.",
+      "MIT Press.",
+      "https://books.google.com/books?id=HBb6DwAAQBAJ"
+    ],
+    "expect": {
+      "title": "Redesigning AI",
+      "year": 2021,
+      "kind": "book",
+      "authors": [
+        "acemoglu"
+      ]
+    }
+  },
+  {
+    "id": "fx39",
+    "style": "acm",
+    "source": "arXiv:2108.07258 reference 49",
+    "label": "Arora et al.",
+    "text": "Arora et al. (2019b) Sanjeev Arora, Hrishikesh Khandeparkar, Mikhail Khodak, Orestis Plevrakis, and Nikunj Saunshi. 2019b. A theoretical analysis of contrastive unsupervised representation learning. arXiv preprint arXiv:1902.09229 (2019).",
+    "expect": {
+      "title": "A theoretical analysis of contrastive unsupervised representation learning",
+      "year": 2019,
+      "arxivId": "1902.09229",
+      "kind": "paper",
+      "authors": [
+        "arora",
+        "khandeparkar",
+        "khodak"
+      ]
+    }
+  },
+  {
+    "id": "fx40",
+    "style": "acm",
+    "source": "arXiv:2108.07258 reference 72",
+    "label": "Basu et al.",
+    "text": "Basu et al. (2021) Priyam Basu, Tiasa Singha Roy, Rakshit Naidu, Zumrut Muftuoglu, Sahib Singh, and Fatemehsadat Mireshghallah. 2021. Benchmarking Differential Privacy and Federated Learning for BERT Models. arXiv preprint arXiv:2106.13973 (2021).",
+    "blocks": [
+      "Priyam Basu, Tiasa Singha Roy, Rakshit Naidu, Zumrut Muftuoglu, Sahib Singh, and Fatemehsadat Mireshghallah. 2021.",
+      "Benchmarking Differential Privacy and Federated Learning for BERT Models.",
+      "arXiv preprint arXiv:2106.13973 (2021)."
+    ],
+    "expect": {
+      "title": "Benchmarking Differential Privacy and Federated Learning for BERT Models",
+      "year": 2021,
+      "arxivId": "2106.13973",
+      "kind": "paper",
+      "authors": [
+        "basu"
+      ]
+    }
+  },
+  {
+    "id": "fx41",
+    "style": "icml",
+    "source": "arXiv:2103.00020 reference 9",
+    "label": "Bechmann & Bowker (2019)",
+    "text": "Bechmann & Bowker (2019) Bechmann, A. and Bowker, G. C. Unsupervised by any other name: Hidden layers of knowledge production in artificial intelligence on social media. Big Data & Society, 6(1):205395171881956, January 2019. doi: 10.1177/2053951718819569. URL https://doi.org/10.1177/2053951718819569.",
+    "expect": {
+      "title": "Unsupervised by any other name: Hidden layers of knowledge production in artificial intelligence on social media",
+      "year": 2019,
+      "doi": "10.1177/2053951718819569",
+      "kind": "paper",
+      "authors": [
+        "bechmann",
+        "bowker"
+      ]
+    }
+  },
+  {
+    "id": "fx42",
+    "style": "icml",
+    "source": "arXiv:2103.00020 reference 60",
+    "label": "Harris et al. (2020)",
+    "text": "Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., Wieser, E., Taylor, J., Berg, S., Smith, N. J., Kern, R., Picus, M., Hoyer, S., van Kerkwijk, M. H., Brett, M., Haldane, A., Fernández del Río, J., Wiebe, M., Peterson, P., Gérard-Marchant, P., Sheppard, K., Reddy, T., Weckesser, W., Abbasi, H., Gohlke, C., and Oliphant, T. E. Array programming with NumPy. Nature, 585:357–362, 2020. doi: 10.1038/s41586-020-2649-2.",
+    "expect": {
+      "title": "Array programming with NumPy",
+      "year": 2020,
+      "doi": "10.1038/s41586-020-2649-2",
+      "kind": "paper",
+      "authors": [
+        "harris",
+        "millman",
+        "van der walt"
+      ]
+    }
+  },
+  {
+    "id": "fx43",
+    "style": "icml",
+    "source": "arXiv:2103.00020 reference 199",
+    "label": "Wu et al. (2019)",
+    "text": "Wu et al. (2019) Wu, Y., Kirillov, A., Massa, F., Lo, W.-Y., and Girshick, R. Detectron2. https://github.com/facebookresearch/detectron2, 2019.",
+    "blocks": [
+      "Wu, Y., Kirillov, A., Massa, F., Lo, W.-Y., and Girshick, R.",
+      "Detectron2.",
+      "https://github.com/facebookresearch/detectron2, 2019."
+    ],
+    "expect": {
+      "title": "Detectron2",
+      "year": 2019,
+      "kind": "software",
+      "authors": [
+        "wu",
+        "kirillov",
+        "massa"
+      ]
+    }
+  },
+  {
+    "id": "fx44",
+    "style": "icml",
+    "source": "arXiv:2103.00020 reference 173",
+    "label": "Speer (2019)",
+    "text": "Speer (2019) Speer, R. ftfy. Zenodo, 2019. URL https://doi.org/10.5281/zenodo.2591652. Version 5.5.",
+    "expect": {
+      "title": "ftfy",
+      "year": 2019,
+      "doi": "10.5281/zenodo.2591652",
+      "kind": "software",
+      "authors": [
+        "speer"
+      ]
+    }
+  },
+  {
+    "id": "fx45",
+    "style": "icml",
+    "source": "arXiv:2305.18290 reference 5",
+    "label": "[5]",
+    "text": "[5] R. A. Bradley and M. E. Terry. Rank analysis of incomplete block designs: I. the method of paired comparisons. Biometrika, 39(3/4):324–345, 1952. doi: https://doi.org/10.2307/2334029.",
+    "blocks": [
+      "R. A. Bradley and M. E. Terry.",
+      "Rank analysis of incomplete block designs: I. the method of paired comparisons.",
+      "Biometrika, 39(3/4):324–345, 1952.",
+      "doi: https://doi.org/10.2307/2334029."
+    ],
+    "expect": {
+      "title": "Rank analysis of incomplete block designs: I. the method of paired comparisons",
+      "year": 1952,
+      "doi": "10.2307/2334029",
+      "kind": "paper",
+      "authors": [
+        "bradley",
+        "terry"
+      ]
+    }
+  },
+  {
+    "id": "fx46",
+    "style": "icml",
+    "source": "arXiv:2305.18290 reference 12",
+    "label": "[12]",
+    "text": "[12] P. F. Christiano, J. Leike, T. Brown, M. Martic, S. Legg, and D. Amodei. Deep reinforcement learning from human preferences. In I. Guyon, U. V. Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett, editors, Advances in Neural Information Processing Systems, volume 30. Curran Associates, Inc., 2017. URL https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf.",
+    "expect": {
+      "title": "Deep reinforcement learning from human preferences",
+      "year": 2017,
+      "kind": "paper",
+      "authors": [
+        "christiano",
+        "leike",
+        "brown"
+      ]
+    }
+  },
+  {
+    "id": "fx47",
+    "style": "numeric",
+    "source": "arXiv:2010.11929 reference 37",
+    "label": "Polyak & Juditsky (1992)",
+    "text": "Polyak & Juditsky (1992) B. T. Polyak and A. B. Juditsky. Acceleration of stochastic approximation by averaging. SIAM Journal on Control and Optimization, 30(4):838–855, 1992. doi: 10.1137/0330046. URL https://doi.org/10.1137/0330046.",
+    "blocks": [
+      "B. T. Polyak and A. B. Juditsky.",
+      "Acceleration of stochastic approximation by averaging.",
+      "SIAM Journal on Control and Optimization, 30(4):838–855, 1992.",
+      "doi: 10.1137/0330046.",
+      "URL https://doi.org/10.1137/0330046."
+    ],
+    "expect": {
+      "title": "Acceleration of stochastic approximation by averaging",
+      "year": 1992,
+      "doi": "10.1137/0330046",
+      "kind": "paper",
+      "authors": [
+        "polyak",
+        "juditsky"
+      ]
+    }
+  },
+  {
+    "id": "fx48",
+    "style": "apa",
+    "source": "arXiv:2203.02155 reference 1",
+    "label": "Abramson et al., (2020)",
+    "text": "Abramson et al., (2020) Abramson, J., Ahuja, A., Barr, I., Brussee, A., Carnevale, F., Cassin, M., Chhaparia, R., Clark, S., Damoc, B., Dudzik, A., et al. (2020). Imitating interactive intelligence. arXiv preprint arXiv:2012.05672.",
+    "blocks": [
+      "Abramson, J., Ahuja, A., Barr, I., Brussee, A., Carnevale, F., Cassin, M., Chhaparia, R., Clark, S., Damoc, B., Dudzik, A., et al. (2020).",
+      "Imitating interactive intelligence.",
+      "arXiv preprint arXiv:2012.05672."
+    ],
+    "expect": {
+      "title": "Imitating interactive intelligence",
+      "year": 2020,
+      "arxivId": "2012.05672",
+      "kind": "paper",
+      "authors": [
+        "abramson",
+        "ahuja",
+        "barr"
+      ]
+    }
+  },
+  {
+    "id": "fx49",
+    "style": "lncs",
+    "source": "arXiv:2005.12872 reference 10",
+    "label": "[10]",
+    "text": "[10] Ghazvininejad, M., Levy, O., Liu, Y., Zettlemoyer, L.: Mask-predict: Parallel decoding of conditional masked language models. arXiv:1904.09324 (2019)",
+    "blocks": [
+      "Ghazvininejad, M., Levy, O., Liu, Y., Zettlemoyer, L.: Mask-predict: Parallel decoding of conditional masked language models. arXiv:1904.09324 (2019)"
+    ],
+    "expect": {
+      "title": "Mask-predict: Parallel decoding of conditional masked language models",
+      "year": 2019,
+      "arxivId": "1904.09324",
+      "kind": "paper",
+      "authors": [
+        "ghazvininejad",
+        "levy",
+        "liu"
+      ]
+    }
+  },
+  {
+    "id": "fx50",
+    "style": "ieee",
+    "source": "arXiv:2101.01169 reference 3",
+    "label": "[3]",
+    "text": "[3] J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of deep bidirectional transformers for language understanding,” arXiv preprint arXiv:1810.04805, 2018.",
+    "blocks": [
+      "J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of deep bidirectional transformers for language understanding,” arXiv preprint arXiv:1810.04805, 2018."
+    ],
+    "expect": {
+      "title": "BERT: Pre-training of deep bidirectional transformers for language understanding",
+      "year": 2018,
+      "arxivId": "1810.04805",
+      "kind": "paper",
+      "authors": [
+        "devlin",
+        "chang",
+        "lee"
+      ]
+    }
+  },
+  {
+    "id": "fx51",
+    "style": "ieee",
+    "source": "arXiv:2101.01169 reference 43",
+    "label": "[43]",
+    "text": "[43] Y.-C. Chen, L. Li, L. Yu, A. El Kholy, F. Ahmed, Z. Gan, Y. Cheng, and J. Liu, “UNITER: Universal image-text representation learning,” in ECCV, 2020.",
+    "blocks": [
+      "Y.-C. Chen, L. Li, L. Yu, A. El Kholy, F. Ahmed, Z. Gan, Y. Cheng, and J. Liu, “UNITER: Universal image-text representation learning,” in ECCV, 2020."
+    ],
+    "expect": {
+      "title": "UNITER: Universal image-text representation learning",
+      "year": 2020,
+      "kind": "paper",
+      "authors": [
+        "chen",
+        "li",
+        "yu"
+      ]
+    }
+  },
+  {
+    "id": "fx52",
+    "style": "ieee",
+    "source": "arXiv:2101.01169 reference 123",
+    "label": "[123]",
+    "text": "[123] T. Chen, S. Saxena, L. Li, D. J. Fleet, and G. Hinton, “Pix2seq: A language modeling framework for object detection,” 2021.",
+    "blocks": [
+      "T. Chen, S. Saxena, L. Li, D. J. Fleet, and G. Hinton, “Pix2seq: A language modeling framework for object detection,” 2021."
+    ],
+    "expect": {
+      "title": "Pix2seq: A language modeling framework for object detection",
+      "year": 2021,
+      "kind": "unknown",
+      "authors": [
+        "chen",
+        "saxena",
+        "li"
+      ]
+    }
+  },
+  {
+    "id": "fx53",
+    "style": "ieee",
+    "source": "arXiv:2101.01169 reference 163",
+    "label": "[163]",
+    "text": "[163] A. Razavi, A. van den Oord, and O. Vinyals, “Generating diverse high-fidelity images with vq-vae-2,” in NeurISP, 2019.",
+    "blocks": [
+      "A. Razavi, A. van den Oord, and O. Vinyals, “Generating diverse high-fidelity images with vq-vae-2,” in NeurISP, 2019."
+    ],
+    "expect": {
+      "title": "Generating diverse high-fidelity images with vq-vae-2",
+      "year": 2019,
+      "kind": "paper",
+      "authors": [
+        "razavi",
+        "van den oord",
+        "vinyals"
+      ]
+    }
+  },
+  {
+    "id": "fx54",
+    "style": "ieee",
+    "source": "arXiv:2101.01169 reference 203",
+    "label": "[203]",
+    "text": "[203] A. Kamath, M. Singh, Y. LeCun, I. Misra, G. Synnaeve, and N. Carion, “Mdetr–modulated detection for end-to-end multi-modal understanding,” arXiv preprint arXiv:2104.12763, 2021.",
+    "blocks": [
+      "A. Kamath, M. Singh, Y. LeCun, I. Misra, G. Synnaeve, and N. Carion, “Mdetr–modulated detection for end-to-end multi-modal understanding,” arXiv preprint arXiv:2104.12763, 2021."
+    ],
+    "expect": {
+      "title": "Mdetr–modulated detection for end-to-end multi-modal understanding",
+      "year": 2021,
+      "arxivId": "2104.12763",
+      "kind": "paper",
+      "authors": [
+        "kamath",
+        "singh",
+        "lecun"
+      ]
+    }
+  },
+  {
+    "id": "fx55",
+    "style": "ieee-web",
+    "source": "arXiv:2101.01169 reference 47",
+    "label": "[47]",
+    "text": "[47] “Revisiting the unreasonable effectiveness of data.” https://ai.googleblog.com/2017/07/revisiting-unreasonable-effectiveness.html. Accessed: 2020-12-31.",
+    "blocks": [
+      "“Revisiting the unreasonable effectiveness of data.” https://ai.googleblog.com/2017/07/revisiting-unreasonable-effectiveness.html. Accessed: 2020-12-31."
+    ],
+    "expect": {
+      "title": "Revisiting the unreasonable effectiveness of data",
+      "year": null,
+      "kind": "web",
+      "authors": []
+    }
+  },
+  {
+    "id": "fx56",
+    "style": "ieee-web",
+    "source": "arXiv:2101.01169 reference 237",
+    "label": "[237]",
+    "text": "[237] “OpenAI’s GPT-3 language model: A technical overview.” https://lambdalabs.com/blog/demystifying-gpt-3/. Accessed: 2020-12-31.",
+    "blocks": [
+      "“OpenAI’s GPT-3 language model: A technical overview.” https://lambdalabs.com/blog/demystifying-gpt-3/. Accessed: 2020-12-31."
+    ],
+    "expect": {
+      "title": "OpenAI’s GPT-3 language model: A technical overview",
+      "year": null,
+      "kind": "web",
+      "authors": []
+    }
+  },
+  {
+    "id": "fx57",
+    "style": "web",
+    "source": "arXiv:2303.08774 reference 65",
+    "label": "[65]",
+    "text": "[65] OpenAI. OpenAI: GPT-4, 2023a. URL https://openai.com/research/gpt-4.",
+    "blocks": [
+      "OpenAI.",
+      "OpenAI: GPT-4, 2023a.",
+      "URL https://openai.com/research/gpt-4."
+    ],
+    "expect": {
+      "title": "OpenAI: GPT-4",
+      "year": 2023,
+      "kind": "web",
+      "authors": [
+        "openai"
+      ]
+    }
+  },
+  {
+    "id": "fx58",
+    "style": "web",
+    "source": "arXiv:2303.08774 reference 75",
+    "label": "[75]",
+    "text": "[75] The Albert blog. URL https://www.albert.io/blog/.",
+    "blocks": [
+      "The Albert blog.",
+      "URL https://www.albert.io/blog/."
+    ],
+    "expect": {
+      "title": "The Albert blog",
+      "year": null,
+      "kind": "web",
+      "authors": []
+    }
+  },
+  {
+    "id": "fx59",
+    "style": "github",
+    "source": "arXiv:2303.08774 reference 44",
+    "label": "[44]",
+    "text": "[44] Ian McKenzie, Alexander Lyzhov, Alicia Parrish, Ameya Prabhu, Aaron Mueller, Najoung Kim, Sam Bowman, and Ethan Perez. The Inverse Scaling Prize, 2022a. URL https://github.com/inverse-scaling/prize.",
+    "expect": {
+      "title": "The Inverse Scaling Prize",
+      "year": 2022,
+      "kind": "software",
+      "authors": [
+        "mckenzie",
+        "lyzhov",
+        "parrish"
+      ]
+    }
+  },
+  {
+    "id": "fx60",
+    "style": "web",
+    "source": "arXiv:2303.08774 reference 85",
+    "label": "[85]",
+    "text": "[85] Nekesha Green, Chavez Procope, Adeel Cheema, and Adekunle Adediji. System Cards, a new resource for understanding how AI systems work. https://ai.facebook.com/blog/system-cards-a-new-resource-for-understanding-how-ai-systems-work/, February 2022.",
+    "expect": {
+      "title": "System Cards, a new resource for understanding how AI systems work",
+      "year": 2022,
+      "kind": "web",
+      "authors": [
+        "green",
+        "procope",
+        "cheema"
+      ]
+    }
+  },
+  {
+    "id": "fx61",
+    "style": "numeric",
+    "source": "arXiv:2303.08774 reference 20",
+    "label": "[20]",
+    "text": "[20] Mostafa Dehghani, Stephan Gouws, Oriol Vinyals, Jakob Uszkoreit, and Lukasz Kaiser. Universal transformers. In International Conference on Learning Representations, 2019. URL https://openreview.net/forum?id=HyzdRiR9Y7.",
+    "expect": {
+      "title": "Universal transformers",
+      "year": 2019,
+      "kind": "paper",
+      "authors": [
+        "dehghani",
+        "gouws",
+        "vinyals"
+      ]
+    }
+  },
+  {
+    "id": "fx62",
+    "style": "github",
+    "source": "arXiv:2111.09296 reference 7",
+    "label": "Baines et al. (2021)",
+    "text": "Baines et al. (2021) Mandeep Baines, Shruti Bhosale, Vittorio Caggiano, Naman Goyal, Siddharth Goyal, Myle Ott, Benjamin Lefaudeux, Vitaliy Liptchinsky, Mike Rabbat, Sam Sheiffer, Anjali Sridhar, and Min Xu. Fairscale: A general purpose modular pytorch library for high performance and large scale training. https://github.com/facebookresearch/fairscale, 2021.",
+    "expect": {
+      "title": "Fairscale: A general purpose modular pytorch library for high performance and large scale training",
+      "year": 2021,
+      "kind": "software",
+      "authors": [
+        "baines",
+        "bhosale",
+        "caggiano"
+      ]
+    }
+  },
+  {
+    "id": "fx63",
+    "style": "book",
+    "source": "arXiv:2206.07682 reference 41",
+    "label": "Jurafsky & Martin (2009)",
+    "text": "Jurafsky & Martin (2009) Dan Jurafsky and James H. Martin. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. Prentice Hall series in Artificial Intelligence. Pearson Prentice Hall, 2009. ISBN 9780131873216. URL https://books.google.com/books?id=fZmj5UNK8AQC.",
+    "blocks": [
+      "Dan Jurafsky and James H. Martin.",
+      "Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition.",
+      "Prentice Hall series in Artificial Intelligence. Pearson Prentice Hall, 2009.",
+      "ISBN 9780131873216.",
+      "URL https://books.google.com/books?id=fZmj5UNK8AQC."
+    ],
+    "expect": {
+      "title": "Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition",
+      "year": 2009,
+      "kind": "book",
+      "authors": [
+        "jurafsky",
+        "martin"
+      ]
+    }
+  },
+  {
+    "id": "fx64",
+    "style": "aaai",
+    "source": "arXiv:2012.09699 reference 4",
+    "label": "Belkin and Niyogi (2003)",
+    "text": "Belkin and Niyogi (2003) Belkin, M.; and Niyogi, P. 2003. Laplacian eigenmaps for dimensionality reduction and data representation. Neural computation 15(6): 1373–1396.",
+    "expect": {
+      "title": "Laplacian eigenmaps for dimensionality reduction and data representation",
+      "year": 2003,
+      "kind": "paper",
+      "authors": [
+        "belkin",
+        "niyogi"
+      ]
+    }
+  },
+  {
+    "id": "fx65",
+    "style": "aaai",
+    "source": "arXiv:2012.09699 reference 31",
+    "label": "Vaswani et al. (2017)",
+    "text": "Vaswani et al. (2017) Vaswani, A.; Shazeer, N.; Parmar, N.; Uszkoreit, J.; Jones, L.; Gomez, A. N.; Kaiser, Ł.; and Polosukhin, I. 2017. Attention is all you need. In Advances in neural information processing systems, 5998–6008.",
+    "blocks": [
+      "Vaswani, A.; Shazeer, N.; Parmar, N.; Uszkoreit, J.; Jones, L.; Gomez, A. N.; Kaiser, Ł.; and Polosukhin, I. 2017.",
+      "Attention is all you need.",
+      "In Advances in neural information processing systems, 5998–6008."
+    ],
+    "expect": {
+      "title": "Attention is all you need",
+      "year": 2017,
+      "kind": "paper",
+      "authors": [
+        "vaswani",
+        "shazeer",
+        "parmar"
+      ]
+    }
+  },
+  {
+    "id": "fx66",
+    "style": "lncs",
+    "source": "arXiv:2005.12872 reference 29",
+    "label": "[29]",
+    "text": "[29] Oord, A.v.d., Li, Y., Babuschkin, I., Simonyan, K., Vinyals, O., Kavukcuoglu, K., Driessche, G.v.d., Lockhart, E., Cobo, L.C., Stimberg, F., et al.: Parallel wavenet: Fast high-fidelity speech synthesis. arXiv:1711.10433 (2017)",
+    "blocks": [
+      "Oord, A.v.d., Li, Y., Babuschkin, I., Simonyan, K., Vinyals, O., Kavukcuoglu, K., Driessche, G.v.d., Lockhart, E., Cobo, L.C., Stimberg, F., et al.: Parallel wavenet: Fast high-fidelity speech synthesis. arXiv:1711.10433 (2017)"
+    ],
+    "expect": {
+      "title": "Parallel wavenet: Fast high-fidelity speech synthesis",
+      "year": 2017,
+      "arxivId": "1711.10433",
+      "kind": "paper"
+    }
+  },
+  {
+    "id": "fx67",
+    "style": "numeric",
+    "source": "arXiv:2012.12877 reference 60",
+    "label": "[60]",
+    "text": "[60] Hongyi Zhang, Moustapha Cissé, Yann N. Dauphin, and David Lopez-Paz. mixup: Beyond empirical risk minimization. arXiv preprint arXiv:1710.09412, 2017.",
+    "expect": {
+      "title": "mixup: Beyond empirical risk minimization",
+      "year": 2017,
+      "arxivId": "1710.09412",
+      "kind": "paper",
+      "authors": [
+        "zhang",
+        "cisse",
+        "dauphin"
+      ]
+    }
+  },
+  {
+    "id": "fx68",
+    "style": "author-year",
+    "source": "arXiv:2111.09296 reference 6",
+    "label": "Baevski et al. (2020b)",
+    "text": "Baevski et al. (2020b) Alexei Baevski, Yuhao Zhou, Abdelrahman Mohamed, and Michael Auli. wav2vec 2.0: A framework for self-supervised learning of speech representations. In Proc. of NeurIPS, 2020b.",
+    "expect": {
+      "title": "wav2vec 2.0: A framework for self-supervised learning of speech representations",
+      "year": 2020,
+      "kind": "paper",
+      "authors": [
+        "baevski",
+        "zhou",
+        "mohamed"
+      ]
+    }
+  },
+  {
+    "id": "fx69",
+    "style": "github",
+    "source": "arXiv:2204.02311 reference 1",
+    "label": "t5x (2021)",
+    "text": "t5x (2021) T5x, 2021. URL https://github.com/google-research/t5x.",
+    "blocks": [
+      "T5x, 2021.",
+      "URL https://github.com/google-research/t5x."
+    ],
+    "expect": {
+      "title": "T5x",
+      "year": 2021,
+      "kind": "software",
+      "authors": []
+    }
+  },
+  {
+    "id": "fx70",
+    "style": "nature",
+    "source": "Nature-style rendering of arXiv:1706.03762",
+    "label": "[1]",
+    "text": "Vaswani, A. et al. Attention is all you need. Adv. Neural Inf. Process. Syst. 30 (2017).",
+    "expect": {
+      "title": "Attention is all you need",
+      "year": 2017,
+      "kind": "paper",
+      "authors": [
+        "vaswani"
+      ]
+    }
+  },
+  {
+    "id": "fx71",
+    "style": "nature",
+    "source": "Nature-style rendering of arXiv:2203.02155",
+    "label": "[1]",
+    "text": "Ouyang, L. et al. Training language models to follow instructions with human feedback. arXiv:2203.02155 (2022).",
+    "expect": {
+      "title": "Training language models to follow instructions with human feedback",
+      "year": 2022,
+      "arxivId": "2203.02155",
+      "kind": "paper",
+      "authors": [
+        "ouyang"
+      ]
+    }
+  },
+  {
+    "id": "fx72",
+    "style": "nature",
+    "source": "Nature-style rendering of arXiv:2005.14165",
+    "label": "[1]",
+    "text": "Brown, T. B. et al. Language models are few-shot learners. Adv. Neural Inf. Process. Syst. 33, 1877–1901 (2020).",
+    "expect": {
+      "title": "Language models are few-shot learners",
+      "year": 2020,
+      "kind": "paper",
+      "authors": [
+        "brown"
+      ]
+    }
+  },
+  {
+    "id": "fx73",
+    "style": "author-year",
+    "source": "AAAI 2020 paper, arXiv:1907.11932",
+    "label": "[1]",
+    "text": "Di Jin, Zhijing Jin, Joey Tianyi Zhou, and Peter Szolovits. Is BERT really robust? A strong baseline for natural language attack on text classification and entailment. In AAAI, 2020.",
+    "expect": {
+      "title": "Is BERT really robust? A strong baseline for natural language attack on text classification and entailment",
+      "year": 2020,
+      "kind": "paper",
+      "authors": [
+        "jin",
+        "jin",
+        "zhou"
+      ]
+    }
+  },
+  {
+    "id": "fx74",
+    "style": "vancouver",
+    "source": "Vancouver rendering of arXiv:1301.3781",
+    "label": "[1]",
+    "text": "Mikolov T, Chen K, Corrado G, Dean J. Efficient estimation of word representations in vector space. arXiv:1301.3781. 2013.",
+    "expect": {
+      "title": "Efficient estimation of word representations in vector space",
+      "year": 2013,
+      "arxivId": "1301.3781",
+      "kind": "paper",
+      "authors": [
+        "mikolov",
+        "chen",
+        "corrado",
+        "dean"
+      ]
+    }
+  },
+  {
+    "id": "fx75",
+    "style": "vancouver",
+    "source": "Science 313(5786):504-7, Vancouver rendering",
+    "label": "[1]",
+    "text": "Hinton G, Salakhutdinov R. Reducing the dimensionality of data with neural networks. Science. 2006;313(5786):504-7.",
+    "expect": {
+      "title": "Reducing the dimensionality of data with neural networks",
+      "year": 2006,
+      "kind": "paper",
+      "authors": [
+        "hinton",
+        "salakhutdinov"
+      ]
+    }
+  },
+  {
+    "id": "fx76",
+    "style": "lncs",
+    "source": "CVPR 2016, LNCS rendering",
+    "label": "[1]",
+    "text": "He, K., Zhang, X., Ren, S., Sun, J.: Deep residual learning for image recognition. In: CVPR (2016)",
+    "expect": {
+      "title": "Deep residual learning for image recognition",
+      "year": 2016,
+      "kind": "paper",
+      "authors": [
+        "he",
+        "zhang",
+        "ren"
+      ]
+    }
+  }
+]

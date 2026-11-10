@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api//2sJN2P+ivulv33T42rRqNQ/f9U</id>
+  <title>arXiv Query: search_query=&amp;id_list=1005.4018&amp;start=0&amp;max_results=1</title>
+  <updated>2026-10-21T20:05:19Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=1&amp;id_list=1005.4018" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>1</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/1005.4018v2</id>
+    <title>A grid environment consisting of heterogeneous compute resources for high performance computation</title>
+    <updated>2010-09-20T10:50:31Z</updated>
+    <link href="https://arxiv.org/abs/1005.4018v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1005.4018v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper has been withdrawn.</summary>
+    <category term="cs.NI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2010-05-21T17:27:30Z</published>
+    <arxiv:comment>Author requested a withdrawal</arxiv:comment>
+    <arxiv:primary_category term="cs.NI"/>
+    <arxiv:journal_ref>Journal of Computing, Volume 2, Issue 5, May 2010</arxiv:journal_ref>
+    <author>
+      <name>Fred Viezens</name>
+    </author>
+  </entry>
+</feed>

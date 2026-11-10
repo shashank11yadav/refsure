@@ -1,0 +1,100 @@
+/* Shared look for the side panel and the welcome page: neutral, calm, readable.
+   Colours are tokens so light and dark stay in step; sizes are in rem so the user's text size is respected.
+   No web fonts, no images, nothing loaded from outside the extension. */
+:root {
+  color-scheme: light dark;
+  --bg: #ffffff;
+  --surface: #f5f6f8;
+  --surface-2: #eceef1;
+  --text: #1d2126;
+  --muted: #565e6a;
+  --line: #d5d9df;
+  /* The edge of a text field: the only sign of where to type, so 3:1 against the page and both surfaces. */
+  --field-line: #7a818c;
+  --accent: #1a56c4;
+  --accent-ink: #ffffff;
+  --focus: #1a56c4;
+  --mark: #b86e00;
+
+  --verified-fg: #0b5d2a; --verified-bg: #e3f4e8; --verified-line: #4c9a67;
+  --details_differ-fg: #6b4300; --details_differ-bg: #fff1cc; --details_differ-line: #c08a1a;
+  --wrong_id-fg: #7a3000; --wrong_id-bg: #ffe6d4; --wrong_id-line: #cc6a2a;
+  --retracted-fg: #8a0f1f; --retracted-bg: #fde3e6; --retracted-line: #c4384a;
+  --not_found-fg: #5b2a35; --not_found-bg: #f6edef; --not_found-line: #a8707b;
+  --cant_check-fg: #3d424a; --cant_check-bg: #eceef1; --cant_check-line: #8a919c;
+
+  --tone-info-bg: #eef3fc; --tone-info-line: #9db6e3;
+  --tone-warn-bg: #fff4d6; --tone-warn-line: #d9a432;
+
+  font: 100%/1.5 system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17191d;
+    --surface: #1f2227;
+    --surface-2: #2a2e35;
+    --text: #e6e9ed;
+    --muted: #a3acb8;
+    --line: #3a3f47;
+    --field-line: #8a919c;
+    --accent: #8ab4ff;
+    --accent-ink: #0d1b33;
+    --focus: #8ab4ff;
+    --mark: #ffb54a;
+
+    --verified-fg: #a8e6bd; --verified-bg: #16341f; --verified-line: #4c9a67;
+    --details_differ-fg: #ffdf91; --details_differ-bg: #3a2c08; --details_differ-line: #c08a1a;
+    --wrong_id-fg: #ffc9a3; --wrong_id-bg: #3d2108; --wrong_id-line: #cc6a2a;
+    --retracted-fg: #ffb3bd; --retracted-bg: #40131b; --retracted-line: #c4384a;
+    --not_found-fg: #f0c4cc; --not_found-bg: #2e1d21; --not_found-line: #a8707b;
+    --cant_check-fg: #dfe3e8; --cant_check-bg: #2c3037; --cant_check-line: #8a919c;
+
+    --tone-info-bg: #1b2538; --tone-info-line: #3f5d96;
+    --tone-warn-bg: #362b0c; --tone-warn-line: #9a7420;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font-size: 0.9375rem; }
+h1, h2, p, ul, ol { margin: 0; }
+a { color: var(--accent); }
+a:hover { text-decoration-thickness: 2px; }
+
+:focus-visible { outline: 0.1875rem solid var(--focus); outline-offset: 0.125rem; border-radius: 0.25rem; }
+
+.sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+
+/* Text fields keep their edge visible (WCAG 1.4.11). The :not() outranks a field's own class rule. */
+input:not([type="checkbox"], [type="radio"]) { border-color: var(--field-line); }
+
+/* Buttons: text buttons with a clear border, never colour alone. */
+.btn {
+  font: inherit; font-weight: 600; font-size: 0.875rem;
+  padding: 0.4rem 0.8rem; min-height: 2.25rem;
+  color: var(--text); background: var(--surface); border: 0.0625rem solid var(--line); border-radius: 0.5rem; cursor: pointer;
+}
+.btn:hover { background: var(--surface-2); }
+.btn.primary { color: var(--accent-ink); background: var(--accent); border-color: var(--accent); }
+.btn.primary:hover { filter: brightness(1.08); }
+.btn.quiet { background: transparent; border-color: transparent; color: var(--muted); }
+.btn.quiet:hover { background: var(--surface); color: var(--text); }
+.btn[disabled] { opacity: 0.6; cursor: default; }
+
+/* The six statuses: each has a word and its own icon shape; colour only reinforces them. */
+[data-status="verified"] { --st-fg: var(--verified-fg); --st-bg: var(--verified-bg); --st-line: var(--verified-line); }
+[data-status="details_differ"] { --st-fg: var(--details_differ-fg); --st-bg: var(--details_differ-bg); --st-line: var(--details_differ-line); }
+[data-status="wrong_id"] { --st-fg: var(--wrong_id-fg); --st-bg: var(--wrong_id-bg); --st-line: var(--wrong_id-line); }
+[data-status="retracted"] { --st-fg: var(--retracted-fg); --st-bg: var(--retracted-bg); --st-line: var(--retracted-line); }
+[data-status="not_found"] { --st-fg: var(--not_found-fg); --st-bg: var(--not_found-bg); --st-line: var(--not_found-line); }
+[data-status="cant_check"] { --st-fg: var(--cant_check-fg); --st-bg: var(--cant_check-bg); --st-line: var(--cant_check-line); }
+
+.status {
+  display: inline-flex; align-items: center; gap: 0.35rem;
+  padding: 0.125rem 0.6rem 0.125rem 0.45rem;
+  font-weight: 700; font-size: 0.8125rem; white-space: nowrap;
+  color: var(--st-fg); background: var(--st-bg); border: 0.0625rem solid var(--st-line); border-radius: 999px;
+}
+li[data-status="retracted"] .status { border-width: 0.125rem; }
+li[data-status="not_found"] .status { border-style: dashed; }
+.icon { flex: none; }

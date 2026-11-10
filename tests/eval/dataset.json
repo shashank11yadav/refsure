@@ -1,0 +1,1229 @@
+{
+  "version": 1,
+  "generated": "2026-10-27",
+  "description": "RefSure accuracy evaluation set. See tests/eval/README.md for how every part was built.",
+  "arxivHtml": [
+    {
+      "arxivId": "2503.00258",
+      "title": "Decoupling Content and Expression: Two-Dimensional Detection of AI-Generated Text",
+      "category": "cs.CL",
+      "year": 2025
+    },
+    {
+      "arxivId": "2503.05793",
+      "title": "MedSimAI: Simulation and Formative Feedback Generation to Enhance Deliberate Practice in Medical Education",
+      "category": "cs.CY",
+      "year": 2025
+    },
+    {
+      "arxivId": "2503.00260",
+      "title": "Seeing A 3D World in A Grain of Sand",
+      "category": "cs.CV",
+      "year": 2025
+    },
+    {
+      "arxivId": "2503.00266",
+      "title": "Flow Matching for Medical Image Synthesis: Bridging the Gap Between Speed and Quality",
+      "category": "cs.CV",
+      "year": 2025
+    },
+    {
+      "arxivId": "2504.01995",
+      "title": "Brains vs. Bytes: Evaluating LLM Proficiency in Olympiad Mathematics",
+      "category": "cs.AI",
+      "year": 2025
+    },
+    {
+      "arxivId": "2503.00273",
+      "title": "Evolution of Information in Interactive Decision Making: A Case Study for Multi-Armed Bandits",
+      "category": "stat.ML",
+      "year": 2025
+    },
+    {
+      "arxivId": "2503.01913",
+      "title": "Arithmetical Structures On Fan Graphs",
+      "category": "math.CO",
+      "year": 2025
+    },
+    {
+      "arxivId": "2505.00243",
+      "title": "Affine constraints in non-reversible diffusions with degenerate noise",
+      "category": "math.PR",
+      "year": 2025
+    },
+    {
+      "arxivId": "2503.00312",
+      "title": "Classical and quantum cosmology of $f(R)$ gravity's rainbow in Schutz's formalism",
+      "category": "gr-qc",
+      "year": 2025
+    },
+    {
+      "arxivId": "2503.00346",
+      "title": "Discrete Bulk Spectrum in Jackiw-Teitelboim Theory",
+      "category": "hep-th",
+      "year": 2025
+    },
+    {
+      "arxivId": "2503.00475",
+      "title": "Field-driven band asymmetry and non-reciprocal transport in a helimagnet",
+      "category": "cond-mat.mes-hall",
+      "year": 2025
+    },
+    {
+      "arxivId": "2503.00612",
+      "title": "Statistical Mechanics of Semantic Compression",
+      "category": "cond-mat.dis-nn",
+      "year": 2025
+    },
+    {
+      "arxivId": "2503.00632",
+      "title": "Policy Design in Long-Run Welfare Dynamics",
+      "category": "cs.CY",
+      "year": 2025
+    },
+    {
+      "arxivId": "2503.00271",
+      "title": "Why Johnny Adopts Identity-Based Software Signing: A Usability Case Study of Sigstore",
+      "category": "cs.SE",
+      "year": 2025
+    },
+    {
+      "arxivId": "2503.00252",
+      "title": "Design of a quantum diamond microscope with efficient scanning confocal readout",
+      "category": "quant-ph",
+      "year": 2025
+    },
+    {
+      "arxivId": "2503.00272",
+      "title": "Calabi-Yau Period Geometry and Restricted Moduli in Type II Compactifications",
+      "category": "hep-th",
+      "year": 2025
+    }
+  ],
+  "arxivHtmlHoldout": [
+    {
+      "arxivId": "2609.00515",
+      "title": "The Interlingua Hypothesis: LLMs Translate via a Latent Task-agnostic Feature Space",
+      "category": "cs.CL",
+      "year": 2026
+    },
+    {
+      "arxivId": "2609.00505",
+      "title": "ViTAL-X: Video-Text Alignment with Cross-Modal Temporal Edits",
+      "category": "cs.CV",
+      "year": 2026
+    },
+    {
+      "arxivId": "2609.00504",
+      "title": "Independent Reinforcement Learning in Discounted Markov Games",
+      "category": "cs.GT",
+      "year": 2026
+    },
+    {
+      "arxivId": "2609.22202",
+      "title": "An Operator-Based Visual Analytics Pipeline for Synthetic Systemic Risk Dynamics",
+      "category": "q-fin.RM",
+      "year": 2026
+    },
+    {
+      "arxivId": "2609.00517",
+      "title": "Topological Recursion on Spectral Curves with Infinite Ramification Loci",
+      "category": "math-ph",
+      "year": 2026
+    },
+    {
+      "arxivId": "2609.00631",
+      "title": "Floquet scattering and Fano resonances in nodal-ring and multi-Weyl semimetals: Role of propagating and evanescent modes",
+      "category": "cond-mat.mes-hall",
+      "year": 2026
+    },
+    {
+      "arxivId": "2609.00520",
+      "title": "A distributed-delay Wilson-Cowan model of sleep-related rhythms in the corticothalamic system",
+      "category": "q-bio.NC",
+      "year": 2026
+    },
+    {
+      "arxivId": "2609.02580",
+      "title": "Competitive Market Behavior of LLMs",
+      "category": "cs.MA",
+      "year": 2026
+    }
+  ],
+  "arxivHtmlHoldout2": [
+    {
+      "arxivId": "2610.00850",
+      "title": "AuraForge: Scaling Security Supervision for Training Coding Agents",
+      "category": "cs.CR",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.00848",
+      "title": "Geometric Similarity in VLM Low-Level Vision Representations",
+      "category": "cs.CV",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.00851",
+      "title": "SmoothOperator: Enhancing Representations for Fine-grained Open-set Recognition via Modulated Label Smoothing",
+      "category": "cs.CV",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.00901",
+      "title": "Convergence of stationary distributions for a class of zero-range processes and its application to a wealth distribution model with debt",
+      "category": "math.PR",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.00844",
+      "title": "Complexity study of the Hartle-Hawking state in JT gravity",
+      "category": "hep-th",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.00877",
+      "title": "Complex Magnetic Phases and Unconventional Skyrmion Thermodynamics in Magnetically Intercalated Cr$_{1+x}$Te$_2$Compounds",
+      "category": "cond-mat.mtrl-sci",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.00990",
+      "title": "Selection rules for the harmonic spectroscopy of animal decisions",
+      "category": "physics.bio-ph",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.01008",
+      "title": "Modeling Shipping Emissions: Machine Learning, Engineering, and Policy Counterfactuals",
+      "category": "econ.GN",
+      "year": 2026
+    }
+  ],
+  "arxivHtmlHoldout3": [
+    {
+      "arxivId": "2610.21030",
+      "title": "Learning When to Think: Utility-Guided Adaptive Reasoning for Efficient Text Retrieval",
+      "category": "cs.IR",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.21086",
+      "title": "RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching",
+      "category": "cs.CV",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.21033",
+      "title": "Efficient Agnostic Learning of Univariate Densities Under Local Differential Privacy",
+      "category": "stat.ML",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.22417",
+      "title": "Strict monotonicity of weighted inhomogeneous percolation thresholds under covering maps",
+      "category": "math.PR",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.21058",
+      "title": "Regge Dilaton Gravity from BF Theory",
+      "category": "hep-th",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.21317",
+      "title": "Thermodynamic-limit bootstrap: Solving fractional quantum Hall ground states",
+      "category": "cond-mat.str-el",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.21176",
+      "title": "Language Models Share a Readout Bottleneck in Working Memory",
+      "category": "cs.LG",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.21711",
+      "title": "How language model agents reshape price competition",
+      "category": "cs.GT",
+      "year": 2026
+    }
+  ],
+  "arxivHtmlHoldout4": [
+    {
+      "arxivId": "2610.27435",
+      "title": "Harness Self-Evolution for Long-Horizon Terminal Agents",
+      "category": "cs.AI",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.27410",
+      "title": "Test-time Adaptation for Point Cloud Denoising under Unseen Noise",
+      "category": "cs.CV",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.27412",
+      "title": "Learning the Geometry of Materials Space with Trained Neural Tangent Kernels",
+      "category": "cond-mat.mtrl-sci",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.27434",
+      "title": "Beyond exponential tilting: sharp asymptotics and improved importance sampling for rare events",
+      "category": "stat.CO",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.27420",
+      "title": "Pfaffian solutions to the Ernst equation",
+      "category": "hep-th",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.27436",
+      "title": "Steering of topological criticality in the Su-Schrieffer-Heeger chain via non-Hermitian substitutional impurities",
+      "category": "cond-mat.mes-hall",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.28357",
+      "title": "What I Disbelieve: Quantifying Belief With Negative Ranking Functions",
+      "category": "q-bio.NC",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.27576",
+      "title": "Who Gains When the Umpire Is a Machine? Evidence from the Automated Ball-Strike System (ABS)",
+      "category": "econ.GN",
+      "year": 2026
+    }
+  ],
+  "arxivHtmlHoldout5": [
+    {
+      "arxivId": "2610.39086",
+      "title": "HALO: Human-Grounded Granular Evaluation of Proactive Agents",
+      "category": "cs.CL",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.39147",
+      "title": "Kinematic Causal Attribution: Black-Box Explanations of Motion versus Geometry for 4D Point-Cloud Video Models",
+      "category": "cs.CV",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.39072",
+      "title": "PhysicsNeMo-Mesh: GPU-Native Meshes and Simulation Cases for Physics AI",
+      "category": "physics.comp-ph",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.39115",
+      "title": "An Autonomous Spectral Representation for Fully Asymmetric Spherical Sherrington-Kirkpatrick Dynamics",
+      "category": "math.PR",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.39101",
+      "title": "Regularized Master-Field Approximation for Mass-Deformed Supersymmetric Yang-Mills Matrix Models",
+      "category": "hep-th",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.39074",
+      "title": "HERA: Assessing an Autonomous Agent for Quantum Device Measurement",
+      "category": "cond-mat.mes-hall",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.40280",
+      "title": "Latent Prediction Yields Cross-Subject Alignable Representations in Sensory-Evoked fMRI",
+      "category": "cs.LG",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.39097",
+      "title": "Measuring Longer-Horizon Leveraged ETF Performance",
+      "category": "econ.GN",
+      "year": 2026
+    }
+  ],
+  "arxivHtmlHoldout6": [
+    {
+      "arxivId": "2610.41104",
+      "title": "MUON-RT Reusing the Teacher's Trajectory for Momentum-Free Muon for LLM Self-Distillation",
+      "category": "cs.LG",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.41111",
+      "title": "An Empirical Study on Learning Rooftop Solar Potential from Satellite Imagery Directly Without Explicit Geometry",
+      "category": "cs.CV",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.41107",
+      "title": "Differential rank preservation manifold learning",
+      "category": "cs.AI",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.41128",
+      "title": "Strong solvability and its failure for critical SDEs",
+      "category": "math.PR",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.41138",
+      "title": "Induced Lorentzian geometry from the fermionic quantum metric",
+      "category": "hep-th",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.41101",
+      "title": "Anisotropic Boltzmann transport in a tight-binding superlattice: Exact results for power-law energy-dependent scattering",
+      "category": "cond-mat.mes-hall",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.41684",
+      "title": "Hyperbolic embedding of higher-order simplicial networks",
+      "category": "q-bio.NC",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.41103",
+      "title": "Optimal climate policy in incomplete electricity markets",
+      "category": "eess.SY",
+      "year": 2026
+    }
+  ],
+  "arxivPdfOnly": [
+    {
+      "arxivId": "1803.00149",
+      "title": "Deep Learning for Causal Inference",
+      "category": "econ.EM",
+      "year": 2018
+    },
+    {
+      "arxivId": "1903.00243",
+      "title": "The seed-to-solution method for the Einstein constraints and the asymptotic localization problem",
+      "category": "math.AP",
+      "year": 2019
+    },
+    {
+      "arxivId": "2003.00498",
+      "title": "Roughness Penalty for liquid Scorecards",
+      "category": "stat.ME",
+      "year": 2020
+    },
+    {
+      "arxivId": "1803.00255",
+      "title": "Ultrafast jamming of electrons into an amorphous entangled state",
+      "category": "cond-mat.str-el",
+      "year": 2018
+    },
+    {
+      "arxivId": "1804.00804",
+      "title": "Automatic Normalization of Word Variations in Code-Mixed Social Media Text",
+      "category": "cs.CL",
+      "year": 2018
+    },
+    {
+      "arxivId": "1804.00696",
+      "title": "Absence of zero-point entropy in a triangular Ising antiferromagnet",
+      "category": "cond-mat.str-el",
+      "year": 2018
+    },
+    {
+      "arxivId": "1904.00690",
+      "title": "Customer churn prediction in telecom using machine learning and social network analysis in big data platform",
+      "category": "cs.CY",
+      "year": 2019
+    },
+    {
+      "arxivId": "1907.11045",
+      "title": "Discovery of voltage induced superfluid-like penetration effect in liquid metals at room temperature",
+      "category": "cond-mat.other",
+      "year": 2019
+    },
+    {
+      "arxivId": "1804.02628",
+      "title": "Clustering and Retrieval Method of Immunological Memory Cell in Clonal Selection Algorithm",
+      "category": "cs.NE",
+      "year": 2018
+    },
+    {
+      "arxivId": "1602.03837",
+      "title": "Observation of Gravitational Waves from a Binary Black Hole Merger",
+      "category": "gr-qc",
+      "year": 2016
+    },
+    {
+      "arxivId": "1801.00631",
+      "title": "Deep Learning: A Critical Appraisal",
+      "category": "cs.AI",
+      "year": 2018
+    }
+  ],
+  "pdfPhysicsHoldout": [
+    {
+      "arxivId": "2610.28055",
+      "title": "Time-Reversal Symmetry in Artificial Topological Graphene Rings",
+      "category": "cond-mat.mes-hall",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.27843",
+      "title": "Flavor decomposition of electromagnetic multipole moments in $[q_1q_2][\\bar q_3 \\bar c]$ tetraquarks: Light-quark analogs of $T_{cs1}(2900)^0$ with $J^P = 1^+$",
+      "category": "hep-ph",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.31730",
+      "title": "Newtonian I-Love-Q relations: An enthalpy-based approach",
+      "category": "astro-ph.HE",
+      "year": 2026
+    },
+    {
+      "arxivId": "2610.28399",
+      "title": "Fano formula for resonance poles in the Jost--random-phase approximation: Breit--Wigner-type peaks, Fano dips, and Fano-type peaks in $^{16}$O and $^{208}$Pb",
+      "category": "nucl-th",
+      "year": 2026
+    }
+  ],
+  "openreview": [
+    {
+      "arxivId": "1810.05331",
+      "title": "Dynamic Channel Pruning: Feature Boosting and Suppression",
+      "category": "cs.CV",
+      "year": 2018,
+      "venue": "ICLR 2019",
+      "openreviewForum": null
+    },
+    {
+      "arxivId": "1812.01054",
+      "title": "Transferring Knowledge across Learning Processes",
+      "category": "cs.LG",
+      "year": 2018,
+      "venue": "ICLR 2019",
+      "openreviewForum": null
+    },
+    {
+      "arxivId": "1910.00359",
+      "title": "Truth or Backpropaganda? An Empirical Investigation of Deep Learning Theory",
+      "category": "cs.LG",
+      "year": 2019,
+      "venue": "ICLR 2020",
+      "openreviewForum": null
+    },
+    {
+      "arxivId": "2001.07457",
+      "title": "Learning to Control PDEs with Differentiable Physics",
+      "category": "cs.LG",
+      "year": 2020,
+      "venue": "ICLR 2020",
+      "openreviewForum": null
+    },
+    {
+      "arxivId": "2101.06006",
+      "title": "The Geometry of Deep Generative Image Models and its Applications",
+      "category": "cs.LG",
+      "year": 2021,
+      "venue": "ICLR 2021",
+      "openreviewForum": null
+    },
+    {
+      "arxivId": "2012.06717",
+      "title": "Mapping the Timescale Organization of Neural Language Models",
+      "category": "cs.CL",
+      "year": 2020,
+      "venue": "ICLR 2021",
+      "openreviewForum": null
+    },
+    {
+      "arxivId": "2201.04676",
+      "title": "UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning",
+      "category": "cs.CV",
+      "year": 2022,
+      "venue": "ICLR 2022",
+      "openreviewForum": null
+    },
+    {
+      "arxivId": "2206.00941",
+      "title": "Improving Diffusion Models for Inverse Problems using Manifold Constraints",
+      "category": "cs.LG",
+      "year": 2022,
+      "venue": "NeurIPS 2022",
+      "openreviewForum": null
+    },
+    {
+      "arxivId": "2206.00159",
+      "title": "Provably Efficient Offline Multi-agent Reinforcement Learning via Strategy-wise Bonus",
+      "category": "cs.LG",
+      "year": 2022,
+      "venue": "NeurIPS 2022",
+      "openreviewForum": null
+    }
+  ],
+  "retracted": [
+    {
+      "id": "R01",
+      "doi": "10.1016/s0140-6736(97)11096-0",
+      "title": "Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children",
+      "year": 1998,
+      "authors": [
+        "Wakefield, AJ",
+        "Murch, SH",
+        "Anthony, A"
+      ],
+      "authorCount": 13,
+      "venue": "The Lancet",
+      "origin": "well-known case",
+      "retractionNoticeDoi": "10.1016/s0140-6736(10)60175-4",
+      "withDoi": true,
+      "text": "A. Wakefield, S. Murch, A. Anthony et al. Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children. The Lancet 351, 637–641 (1998). https://doi.org/10.1016/s0140-6736(97)11096-0"
+    },
+    {
+      "id": "R02",
+      "doi": "10.1126/science.1112286",
+      "title": "Patient-Specific Embryonic Stem Cells Derived from Human SCNT Blastocysts",
+      "year": 2005,
+      "authors": [
+        "Hwang, Woo Suk",
+        "Roh, Sung Il",
+        "Lee, Byeong Chun"
+      ],
+      "authorCount": 25,
+      "venue": "Science",
+      "origin": "well-known case",
+      "retractionNoticeDoi": "10.1126/science.1124926",
+      "withDoi": false,
+      "text": "Hwang, W. S., Roh, S. I., Lee, B. C., et al. (2005). Patient-Specific Embryonic Stem Cells Derived from Human SCNT Blastocysts. Science 308, 1777–1783."
+    },
+    {
+      "id": "R03",
+      "doi": "10.1038/nature12968",
+      "title": "Stimulus-triggered fate conversion of somatic cells into pluripotency",
+      "year": 2014,
+      "authors": [
+        "Obokata, Haruko",
+        "Wakayama, Teruhiko",
+        "Sasai, Yoshiki"
+      ],
+      "authorCount": 8,
+      "venue": "Nature",
+      "origin": "well-known case",
+      "retractionNoticeDoi": "10.1038/nature13598",
+      "withDoi": true,
+      "text": "Obokata H, Wakayama T, Sasai Y, et al. Stimulus-triggered fate conversion of somatic cells into pluripotency. Nature. 2014;505:641–647. doi:10.1038/nature12968"
+    },
+    {
+      "id": "R04",
+      "doi": "10.1126/science.1197258",
+      "title": "A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus",
+      "year": 2011,
+      "authors": [
+        "Wolfe-Simon, Felisa",
+        "Blum, Jodi Switzer",
+        "Kulp, Thomas R."
+      ],
+      "authorCount": 12,
+      "venue": "Science",
+      "origin": "well-known case",
+      "retractionNoticeDoi": "10.1126/science.adu5488",
+      "withDoi": false,
+      "text": "F. Wolfe-Simon, J. S. Blum, T. R. Kulp et al. A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus. Science 332, 1163–1166 (2011)."
+    },
+    {
+      "id": "R05",
+      "doi": "10.1016/j.fct.2012.08.005",
+      "title": "Long term toxicity of a Roundup herbicide and a Roundup-tolerant genetically modified maize",
+      "year": 2012,
+      "authors": [
+        "Séralini, Gilles-Eric",
+        "Clair, Emilie",
+        "Mesnage, Robin"
+      ],
+      "authorCount": 8,
+      "venue": "Food and Chemical Toxicology",
+      "origin": "well-known case",
+      "retractionNoticeDoi": "10.1016/j.fct.2013.11.047",
+      "withDoi": true,
+      "text": "Séralini, G. E., Clair, E., Mesnage, R., et al. (2012). Long term toxicity of a Roundup herbicide and a Roundup-tolerant genetically modified maize. Food and Chemical Toxicology 50, 4221–4231. doi:10.1016/j.fct.2012.08.005"
+    },
+    {
+      "id": "R06",
+      "doi": "10.1056/nejmoa2007621",
+      "title": "Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19",
+      "year": 2020,
+      "authors": [
+        "Mehra, Mandeep R.",
+        "Desai, Sapan S.",
+        "Kuy, SreyRam"
+      ],
+      "authorCount": 5,
+      "venue": "New England Journal of Medicine",
+      "origin": "well-known case",
+      "retractionNoticeDoi": "10.1056/nejmc2021225",
+      "withDoi": false,
+      "text": "Mehra MR, Desai SS, Kuy S, et al. Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19. New England Journal of Medicine. 2020;382."
+    },
+    {
+      "id": "R07",
+      "doi": "10.1016/s0140-6736(20)31180-6",
+      "title": "Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis",
+      "year": 2020,
+      "authors": [
+        "Mehra, Mandeep R",
+        "Desai, Sapan S",
+        "Ruschitzka, Frank"
+      ],
+      "authorCount": 4,
+      "venue": "The Lancet",
+      "origin": "well-known case",
+      "retractionNoticeDoi": "10.1016/s0140-6736(20)31324-6",
+      "withDoi": true,
+      "text": "M. R. Mehra, S. S. Desai, F. Ruschitzka et al. Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis. The Lancet (2020). https://doi.org/10.1016/s0140-6736(20)31180-6"
+    },
+    {
+      "id": "R08",
+      "doi": "10.1155/2022/4743070",
+      "title": "Effect of Enteral and Parenteral Nutrition Support on Pulmonary Function in Elderly Patients with Chronic Obstructive Pulmonary Disease Complicated by Respiratory Failure",
+      "year": 2022,
+      "authors": [
+        "Wang, Liangge",
+        "Rui, Wenxiu",
+        "Chen, Si"
+      ],
+      "authorCount": 5,
+      "venue": "Computational and Mathematical Methods in Medicine",
+      "origin": "random sample of Crossref update-type:retraction",
+      "retractionNoticeDoi": "10.1155/2023/9878450",
+      "withDoi": false,
+      "text": "Wang, L., Rui, W., Chen, S., et al. (2022). Effect of Enteral and Parenteral Nutrition Support on Pulmonary Function in Elderly Patients with Chronic Obstructive Pulmonary Disease Complicated by Respiratory Failure. Computational and Mathematical Methods in Medicine 2022, 1–8."
+    },
+    {
+      "id": "R09",
+      "doi": "10.1155/2022/3117805",
+      "title": "Antimicrobial Step-Down Therapy versus Conventional Antimicrobial Therapy in the Treatment of Patients with Sepsis",
+      "year": 2022,
+      "authors": [
+        "Peng, Zhuo",
+        "Niu, Zequn",
+        "Zhang, Rui"
+      ],
+      "authorCount": 7,
+      "venue": "Disease Markers",
+      "origin": "random sample of Crossref update-type:retraction",
+      "retractionNoticeDoi": "10.1155/2023/9830503",
+      "withDoi": true,
+      "text": "Peng Z, Niu Z, Zhang R, et al. Antimicrobial Step-Down Therapy versus Conventional Antimicrobial Therapy in the Treatment of Patients with Sepsis. Disease Markers. 2022;2022:1–6. doi:10.1155/2022/3117805"
+    },
+    {
+      "id": "R10",
+      "doi": "10.1007/s40815-015-0112-6",
+      "title": "A New Trust Evaluation Algorithm Between Cloud Entities Based on Fuzzy Mathematics",
+      "year": 2015,
+      "authors": [
+        "Mohsenzadeh, Ali",
+        "Motameni, Homayun",
+        "Er, Meng Joo"
+      ],
+      "authorCount": 3,
+      "venue": "International Journal of Fuzzy Systems",
+      "origin": "random sample of Crossref update-type:retraction",
+      "retractionNoticeDoi": "10.1007/s40815-019-00695-x",
+      "withDoi": false,
+      "text": "A. Mohsenzadeh, H. Motameni and M. J. Er. A New Trust Evaluation Algorithm Between Cloud Entities Based on Fuzzy Mathematics. International Journal of Fuzzy Systems 18, 659–672 (2015)."
+    },
+    {
+      "id": "R11",
+      "doi": "10.1155/2021/9939134",
+      "title": "Identifying COVID‐19‐Specific Transcriptomic Biomarkers with Machine Learning Methods",
+      "year": 2021,
+      "authors": [
+        "Chen, Lei",
+        "Li, Zhandong",
+        "Zeng, Tao"
+      ],
+      "authorCount": 7,
+      "venue": "BioMed Research International",
+      "origin": "random sample of Crossref update-type:retraction",
+      "retractionNoticeDoi": "10.1155/2023/9878305",
+      "withDoi": true,
+      "text": "Chen, L., Li, Z., Zeng, T., et al. (2021). Identifying COVID‐19‐Specific Transcriptomic Biomarkers with Machine Learning Methods. BioMed Research International 2021. doi:10.1155/2021/9939134"
+    },
+    {
+      "id": "R12",
+      "doi": "10.1080/19443994.2014.950991",
+      "title": "Synthesis of TiO2/polyacrylonitrile nanofibers composite and its application to lead ions removal from waste waters",
+      "year": 2015,
+      "authors": [
+        "Shojaei, Maryam",
+        "Sadjadi, Sodeh",
+        "Rajabi-Hamane, Mehdi"
+      ],
+      "authorCount": 4,
+      "venue": "Desalination and Water Treatment",
+      "origin": "random sample of Crossref update-type:retraction",
+      "retractionNoticeDoi": "10.1080/19443994.2014.950991",
+      "withDoi": false,
+      "text": "Shojaei M, Sadjadi S, Rajabi-Hamane M, et al. Synthesis of TiO2/polyacrylonitrile nanofibers composite and its application to lead ions removal from waste waters. Desalination and Water Treatment. 2015;56:1403–1412."
+    },
+    {
+      "id": "R13",
+      "doi": "10.1016/j.micromeso.2014.12.037",
+      "title": "Ionic liquid assisted synthesis of flexible and super-hydrophobic porous gels",
+      "year": 2015,
+      "authors": [
+        "Qin, Zhiqiao",
+        "Fang, Yi",
+        "Wang, Yanji"
+      ],
+      "authorCount": 5,
+      "venue": "Microporous and Mesoporous Materials",
+      "origin": "random sample of Crossref update-type:retraction",
+      "retractionNoticeDoi": "10.1016/j.micromeso.2015.05.010",
+      "withDoi": true,
+      "text": "Z. Qin, Y. Fang, Y. Wang et al. Ionic liquid assisted synthesis of flexible and super-hydrophobic porous gels. Microporous and Mesoporous Materials 207, 78–83 (2015). https://doi.org/10.1016/j.micromeso.2014.12.037"
+    },
+    {
+      "id": "R14",
+      "doi": "10.1155/2022/4135439",
+      "title": "Multiobjective Differential Evolution Clustering Algorithm Based on Multimedia Information in Working Mechanism Innovation for Traditional Chinese Medicine",
+      "year": 2022,
+      "authors": [
+        "Zhu, Xiaoling",
+        "Cheng, Hongsheng",
+        "Zhang, Xu"
+      ],
+      "authorCount": 5,
+      "venue": "Advances in Multimedia",
+      "origin": "random sample of Crossref update-type:retraction",
+      "retractionNoticeDoi": "10.1155/2023/9861565",
+      "withDoi": false,
+      "text": "Zhu, X., Cheng, H., Zhang, X., et al. (2022). Multiobjective Differential Evolution Clustering Algorithm Based on Multimedia Information in Working Mechanism Innovation for Traditional Chinese Medicine. Advances in Multimedia 2022, 1–12."
+    },
+    {
+      "id": "R15",
+      "doi": "10.4049/jimmunol.180.9.6199",
+      "title": "Inhibition of Yin Yang 1-Dependent Repressor Activity of DR5 Transcription and Expression by the Novel Proteasome Inhibitor NPI-0052 Contributes to its TRAIL-Enhanced Apoptosis in Cancer Cells",
+      "year": 2008,
+      "authors": [
+        "Baritaki, Stavroula",
+        "Suzuki, Eriko",
+        "Umezawa, Kazuo"
+      ],
+      "authorCount": 10,
+      "venue": "The Journal of Immunology",
+      "origin": "random sample of Crossref update-type:retraction",
+      "retractionNoticeDoi": "10.4049/jimmunol.1601801",
+      "withDoi": true,
+      "text": "Baritaki S, Suzuki E, Umezawa K, et al. Inhibition of Yin Yang 1-Dependent Repressor Activity of DR5 Transcription and Expression by the Novel Proteasome Inhibitor NPI-0052 Contributes to its TRAIL-Enhanced Apoptosis in Cancer Cells. The Journal of Immunology. 2008;180:6199–6210. doi:10.4049/jimmunol.180.9.6199"
+    }
+  ],
+  "corrupted": [
+    {
+      "id": "C01",
+      "kind": "wrong_year",
+      "derivedFrom": "10.1038/nature14539 (Deep learning)",
+      "text": "Y. LeCun, Y. Bengio and G. Hinton. Deep learning. Nature 521, 436–444 (2019). https://doi.org/10.1038/nature14539",
+      "note": "year 2015 -> 2019"
+    },
+    {
+      "id": "C02",
+      "kind": "wrong_year",
+      "derivedFrom": "10.1038/nature16961 (Mastering the game of Go with deep neural networks)",
+      "text": "Silver, D., Huang, A., Maddison, C. J., et al. (2011). Mastering the game of Go with deep neural networks and tree search. Nature 529, 484–489.",
+      "note": "year 2016 -> 2011"
+    },
+    {
+      "id": "C03",
+      "kind": "wrong_year",
+      "derivedFrom": "10.1162/neco.1997.9.8.1735 (Long Short-Term Memory)",
+      "text": "Hochreiter S, Schmidhuber J. Long Short-Term Memory. Neural Computation. 2000;9:1735–1780. doi:10.1162/neco.1997.9.8.1735",
+      "note": "year 1997 -> 2000"
+    },
+    {
+      "id": "C04",
+      "kind": "wrong_year",
+      "derivedFrom": "10.1109/cvpr.2016.90 (Deep Residual Learning for Image Recognition)",
+      "text": "K. He, X. Zhang, S. Ren et al. Deep Residual Learning for Image Recognition. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 770–778 (2012).",
+      "note": "year 2016 -> 2012"
+    },
+    {
+      "id": "C05",
+      "kind": "wrong_year",
+      "derivedFrom": "10.1038/nature14236 (Human-level control through deep reinforcement lea)",
+      "text": "Mnih, V., Kavukcuoglu, K., Silver, D., et al. (2021). Human-level control through deep reinforcement learning. Nature 518, 529–533. doi:10.1038/nature14236",
+      "note": "year 2015 -> 2021"
+    },
+    {
+      "id": "C06",
+      "kind": "wrong_year",
+      "derivedFrom": "10.1007/bf00994018 (Support-vector networks)",
+      "text": "Cortes C, Vapnik V. Support-vector networks. Machine Learning. 1989;20:273–297.",
+      "note": "year 1995 -> 1989"
+    },
+    {
+      "id": "C07",
+      "kind": "wrong_year",
+      "derivedFrom": "10.1038/171737a0 (Molecular Structure of Nucleic Acids: A Structure )",
+      "text": "J. D. Watson and F. H. C. Crick. Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid. Nature 171, 737–738 (1958). https://doi.org/10.1038/171737a0",
+      "note": "year 1953 -> 1958"
+    },
+    {
+      "id": "C08",
+      "kind": "wrong_year",
+      "derivedFrom": "10.1126/science.1127647 (Reducing the Dimensionality of Data with Neural Ne)",
+      "text": "Hinton, G. E., Salakhutdinov, R. R. (2010). Reducing the Dimensionality of Data with Neural Networks. Science 313, 504–507.",
+      "note": "year 2006 -> 2010"
+    },
+    {
+      "id": "C09",
+      "kind": "wrong_year",
+      "derivedFrom": "10.1145/1327452.1327492 (MapReduce)",
+      "text": "Dean J, Ghemawat S. MapReduce. Communications of the ACM. 2005;51:107–113. doi:10.1145/1327452.1327492",
+      "note": "year 2008 -> 2005"
+    },
+    {
+      "id": "C10",
+      "kind": "wrong_year",
+      "derivedFrom": "10.1038/nature21056 (Dermatologist-level classification of skin cancer )",
+      "text": "A. Esteva, B. Kuprel, R. A. Novoa et al. Dermatologist-level classification of skin cancer with deep neural networks. Nature 542, 115–118 (2024).",
+      "note": "year 2017 -> 2024"
+    },
+    {
+      "id": "C11",
+      "kind": "swapped_authors",
+      "derivedFrom": "10.1038/nature14539 (Deep learning)",
+      "text": "Krizhevsky, A., Sutskever, I., Hinton, G. E. (2015). Deep learning. Nature 521, 436–444. doi:10.1038/nature14539",
+      "note": "authors of 10.1145/3065386"
+    },
+    {
+      "id": "C12",
+      "kind": "swapped_authors",
+      "derivedFrom": "10.1162/neco.1997.9.8.1735 (Long Short-Term Memory)",
+      "text": "Dean J, Ghemawat S. Long Short-Term Memory. Neural Computation. 1997;9:1735–1780.",
+      "note": "authors of 10.1145/1327452.1327492"
+    },
+    {
+      "id": "C13",
+      "kind": "swapped_authors",
+      "derivedFrom": "10.1109/cvpr.2016.90 (Deep Residual Learning for Image Recognition)",
+      "text": "C. Cortes and V. Vapnik. Deep Residual Learning for Image Recognition. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 770–778 (2016). https://doi.org/10.1109/cvpr.2016.90",
+      "note": "authors of 10.1007/bf00994018"
+    },
+    {
+      "id": "C14",
+      "kind": "swapped_authors",
+      "derivedFrom": "10.1038/nature14236 (Human-level control through deep reinforcement lea)",
+      "text": "LeCun, Y., Bengio, Y., Hinton, G. (2015). Human-level control through deep reinforcement learning. Nature 518, 529–533.",
+      "note": "authors of 10.1038/nature14539"
+    },
+    {
+      "id": "C15",
+      "kind": "swapped_authors",
+      "derivedFrom": "10.1023/a:1010933404324 (Random Forests)",
+      "text": "Watson JD, Crick FHC. Random Forests. Machine Learning. 2001;45:5–32. doi:10.1023/a:1010933404324",
+      "note": "authors of 10.1038/171737a0"
+    },
+    {
+      "id": "C16",
+      "kind": "swapped_authors",
+      "derivedFrom": "10.1038/171737a0 (Molecular Structure of Nucleic Acids: A Structure )",
+      "text": "S. Hochreiter and J. Schmidhuber. Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid. Nature 171, 737–738 (1953).",
+      "note": "authors of 10.1162/neco.1997.9.8.1735"
+    },
+    {
+      "id": "C17",
+      "kind": "swapped_authors",
+      "derivedFrom": "10.1126/science.1127647 (Reducing the Dimensionality of Data with Neural Ne)",
+      "text": "Schmidhuber, J. (2006). Reducing the Dimensionality of Data with Neural Networks. Science 313, 504–507. doi:10.1126/science.1127647",
+      "note": "authors of 10.1016/j.neunet.2014.09.003"
+    },
+    {
+      "id": "C18",
+      "kind": "swapped_authors",
+      "derivedFrom": "10.1145/1327452.1327492 (MapReduce)",
+      "text": "Esteva A, Kuprel B, Novoa RA, et al. MapReduce. Communications of the ACM. 2008;51:107–113.",
+      "note": "authors of 10.1038/nature21056"
+    },
+    {
+      "id": "C19",
+      "kind": "swapped_authors",
+      "derivedFrom": "10.1038/nature21056 (Dermatologist-level classification of skin cancer )",
+      "text": "K. He, X. Zhang, S. Ren et al. Dermatologist-level classification of skin cancer with deep neural networks. Nature 542, 115–118 (2017). https://doi.org/10.1038/nature21056",
+      "note": "authors of 10.1109/cvpr.2016.90"
+    },
+    {
+      "id": "C20",
+      "kind": "swapped_authors",
+      "derivedFrom": "10.1016/j.neunet.2014.09.003 (Deep learning in neural networks: An overview)",
+      "text": "Silver, D., Huang, A., Maddison, C. J., et al. (2015). Deep learning in neural networks: An overview. Neural Networks 61, 85–117.",
+      "note": "authors of 10.1038/nature16961"
+    },
+    {
+      "id": "C21",
+      "kind": "wrong_doi",
+      "derivedFrom": "10.1038/nature14539 (Deep learning)",
+      "text": "LeCun Y, Bengio Y, Hinton G. Deep learning. Nature. 2015;521:436–444. doi:10.1038/nature14236",
+      "note": "DOI of 10.1038/nature14236 (Human-level control through deep reinfor)"
+    },
+    {
+      "id": "C22",
+      "kind": "wrong_doi",
+      "derivedFrom": "10.1038/nature16961 (Mastering the game of Go with deep neural networks)",
+      "text": "D. Silver, A. Huang, C. J. Maddison et al. Mastering the game of Go with deep neural networks and tree search. Nature 529, 484–489 (2016). https://doi.org/10.1007/bf00994018",
+      "note": "DOI of 10.1007/bf00994018 (Support-vector networks)"
+    },
+    {
+      "id": "C23",
+      "kind": "wrong_doi",
+      "derivedFrom": "10.1162/neco.1997.9.8.1735 (Long Short-Term Memory)",
+      "text": "Hochreiter, S., Schmidhuber, J. (1997). Long Short-Term Memory. Neural Computation 9, 1735–1780. doi:10.1126/science.1127647",
+      "note": "DOI of 10.1126/science.1127647 (Reducing the Dimensionality of Data with)"
+    },
+    {
+      "id": "C24",
+      "kind": "wrong_doi",
+      "derivedFrom": "10.1145/3065386 (ImageNet classification with deep convolutional ne)",
+      "text": "Krizhevsky A, Sutskever I, Hinton GE. ImageNet classification with deep convolutional neural networks. Communications of the ACM. 2017;60:84–90. doi:10.1038/nature21056",
+      "note": "DOI of 10.1038/nature21056 (Dermatologist-level classification of sk)"
+    },
+    {
+      "id": "C25",
+      "kind": "wrong_doi",
+      "derivedFrom": "10.1109/cvpr.2016.90 (Deep Residual Learning for Image Recognition)",
+      "text": "K. He, X. Zhang, S. Ren et al. Deep Residual Learning for Image Recognition. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 770–778 (2016). https://doi.org/10.1038/171737a0",
+      "note": "DOI of 10.1038/171737a0 (Molecular Structure of Nucleic Acids: A )"
+    },
+    {
+      "id": "C26",
+      "kind": "wrong_doi",
+      "derivedFrom": "10.1038/nature14236 (Human-level control through deep reinforcement lea)",
+      "text": "Mnih, V., Kavukcuoglu, K., Silver, D., et al. (2015). Human-level control through deep reinforcement learning. Nature 518, 529–533. doi:10.1145/1327452.1327492",
+      "note": "DOI of 10.1145/1327452.1327492 (MapReduce)"
+    },
+    {
+      "id": "C27",
+      "kind": "wrong_doi",
+      "derivedFrom": "10.1007/bf00994018 (Support-vector networks)",
+      "text": "Cortes C, Vapnik V. Support-vector networks. Machine Learning. 1995;20:273–297. doi:10.1038/nature16961",
+      "note": "DOI of 10.1038/nature16961 (Mastering the game of Go with deep neura)"
+    },
+    {
+      "id": "C28",
+      "kind": "wrong_doi",
+      "derivedFrom": "10.1038/171737a0 (Molecular Structure of Nucleic Acids: A Structure )",
+      "text": "J. D. Watson and F. H. C. Crick. Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid. Nature 171, 737–738 (1953). https://doi.org/10.1016/j.neunet.2014.09.003",
+      "note": "DOI of 10.1016/j.neunet.2014.09.003 (Deep learning in neural networks: An ove)"
+    },
+    {
+      "id": "C29",
+      "kind": "wrong_doi",
+      "derivedFrom": "10.1126/science.1127647 (Reducing the Dimensionality of Data with Neural Ne)",
+      "text": "Hinton, G. E., Salakhutdinov, R. R. (2006). Reducing the Dimensionality of Data with Neural Networks. Science 313, 504–507. doi:10.1038/nature14539",
+      "note": "DOI of 10.1038/nature14539 (Deep learning)"
+    },
+    {
+      "id": "C30",
+      "kind": "wrong_doi",
+      "derivedFrom": "10.1145/1327452.1327492 (MapReduce)",
+      "text": "Dean J, Ghemawat S. MapReduce. Communications of the ACM. 2008;51:107–113. doi:10.1109/cvpr.2016.90",
+      "note": "DOI of 10.1109/cvpr.2016.90 (Deep Residual Learning for Image Recogni)"
+    },
+    {
+      "id": "C31",
+      "kind": "invented_title",
+      "derivedFrom": "10.1038/nature14539 (Deep learning)",
+      "text": "Y. LeCun, Y. Bengio and G. Hinton. Hierarchical Representation Consolidation for Sparse Neural Architectures. Nature 521, 436–444 (2015).",
+      "note": "real authors and venue, made-up title"
+    },
+    {
+      "id": "C32",
+      "kind": "invented_title",
+      "derivedFrom": "10.1162/neco.1997.9.8.1735 (Long Short-Term Memory)",
+      "text": "Hochreiter, S., Schmidhuber, J. (1997). Gated Memory Cells for Long-Horizon Sequence Compression. Neural Computation 9, 1735–1780. doi:10.1162/neco.1997.9.8.90007",
+      "note": "real authors and venue, made-up title, made-up DOI 10.1162/neco.1997.9.8.90007"
+    },
+    {
+      "id": "C33",
+      "kind": "invented_title",
+      "derivedFrom": "10.1109/cvpr.2016.90 (Deep Residual Learning for Image Recognition)",
+      "text": "He K, Zhang X, Ren S, et al. Residual Attention Pruning in Very Deep Convolutional Stacks. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2016:770–778.",
+      "note": "real authors and venue, made-up title"
+    },
+    {
+      "id": "C34",
+      "kind": "invented_title",
+      "derivedFrom": "10.1038/nature14236 (Human-level control through deep reinforcement lea)",
+      "text": "V. Mnih, K. Kavukcuoglu, D. Silver et al. Curriculum Value Estimation with Adaptive Experience Replay. Nature 518, 529–533 (2015). https://doi.org/10.1038/nature90021",
+      "note": "real authors and venue, made-up title, made-up DOI 10.1038/nature90021"
+    },
+    {
+      "id": "C35",
+      "kind": "invented_title",
+      "derivedFrom": "10.1007/bf00994018 (Support-vector networks)",
+      "text": "Cortes, C., Vapnik, V. (1995). Bagged Oblique Trees for Heterogeneous Tabular Streams. Machine Learning 20, 273–297.",
+      "note": "real authors and venue, made-up title"
+    },
+    {
+      "id": "C36",
+      "kind": "invented_title",
+      "derivedFrom": "10.1038/171737a0 (Molecular Structure of Nucleic Acids: A Structure )",
+      "text": "Watson JD, Crick FHC. Margin Calibration of Kernel Classifiers under Distribution Drift. Nature. 1953;171:737–738. doi:10.1038/171737a90035",
+      "note": "real authors and venue, made-up title, made-up DOI 10.1038/171737a90035"
+    },
+    {
+      "id": "C37",
+      "kind": "invented_title",
+      "derivedFrom": "10.1126/science.1127647 (Reducing the Dimensionality of Data with Neural Ne)",
+      "text": "G. E. Hinton and R. R. Salakhutdinov. Bidirectional Encoders with Dynamic Span Masking for Low-Resource Transfer. Science 313, 504–507 (2006).",
+      "note": "real authors and venue, made-up title"
+    },
+    {
+      "id": "C38",
+      "kind": "invented_title",
+      "derivedFrom": "10.1145/1327452.1327492 (MapReduce)",
+      "text": "Dean, J., Ghemawat, S. (2008). Layerwise Autoencoder Pretraining for Manifold-Constrained Embeddings. Communications of the ACM 51, 107–113. doi:10.1145/1327452.90049",
+      "note": "real authors and venue, made-up title, made-up DOI 10.1145/1327452.90049"
+    },
+    {
+      "id": "C39",
+      "kind": "invented_title",
+      "derivedFrom": "10.1038/nature21056 (Dermatologist-level classification of skin cancer )",
+      "text": "Esteva A, Kuprel B, Novoa RA, et al. Fault-Tolerant Batch Aggregation on Commodity Clusters. Nature. 2017;542:115–118.",
+      "note": "real authors and venue, made-up title"
+    },
+    {
+      "id": "C40",
+      "kind": "invented_title",
+      "derivedFrom": "10.1016/j.neunet.2014.09.003 (Deep learning in neural networks: An overview)",
+      "text": "J. Schmidhuber. Few-Shot Lesion Triage with Self-Supervised Dermoscopic Features. Neural Networks 61, 85–117 (2015). https://doi.org/10.1016/j.neunet.2014.09.90063",
+      "note": "real authors and venue, made-up title, made-up DOI 10.1016/j.neunet.2014.09.90063"
+    },
+    {
+      "id": "C41",
+      "kind": "hallucinated",
+      "derivedFrom": "none (invented from scratch)",
+      "text": "A. Whitfield, R. Okonkwo, and L. Haverford. Sparse Mixture Routing for Long-Context Retrieval in Multilingual Corpora. Proceedings of the 38th International Conference on Machine Learning (2021).",
+      "note": "invented authors, title and venue"
+    },
+    {
+      "id": "C42",
+      "kind": "hallucinated",
+      "derivedFrom": "none (invented from scratch)",
+      "text": "M. Tanaka, S. Ibrahim, and P. Delacroix. Consistency Regularisation for Federated Graph Transformers. Advances in Neural Information Processing Systems 34 (2021).",
+      "note": "invented authors, title and venue"
+    },
+    {
+      "id": "C43",
+      "kind": "hallucinated",
+      "derivedFrom": "none (invented from scratch)",
+      "text": "J. Lindqvist and C. Moreau. Self-Calibrating Diffusion Priors for Sparse-View Tomography. IEEE Transactions on Pattern Analysis and Machine Intelligence 44(7), 3341-3355 (2022). https://doi.org/10.1109/TPAMI.2021.3098765",
+      "note": "invented authors, title and venue"
+    },
+    {
+      "id": "C44",
+      "kind": "hallucinated",
+      "derivedFrom": "none (invented from scratch)",
+      "text": "E. Valdez, K. Nakamura, and T. Oyelaran. Scaling Laws for Retrieval-Augmented Planning Agents. arXiv preprint arXiv:2203.98765 (2022).",
+      "note": "invented authors, title and venue"
+    },
+    {
+      "id": "C45",
+      "kind": "hallucinated",
+      "derivedFrom": "none (invented from scratch)",
+      "text": "H. Brandt, N. Kowalczyk, and O. Eze. Provable Convergence of Asynchronous Momentum Methods on Heterogeneous Clusters. Journal of Machine Learning Research 23(112), 1-48 (2022).",
+      "note": "invented authors, title and venue"
+    },
+    {
+      "id": "C46",
+      "kind": "hallucinated",
+      "derivedFrom": "none (invented from scratch)",
+      "text": "S. Marchetti, D. Adeyemi, and F. Lindholm. Counterfactual Probing of Latent Concept Hierarchies in Language Models. Findings of the Association for Computational Linguistics: EMNLP 2023 (2023). https://doi.org/10.18653/v1/2023.findings-emnlp.9876",
+      "note": "invented authors, title and venue"
+    }
+  ],
+  "controls": [
+    {
+      "id": "K01",
+      "doi": "10.1038/nature14539",
+      "text": "Y. LeCun, Y. Bengio and G. Hinton. Deep learning. Nature 521, 436–444 (2015). https://doi.org/10.1038/nature14539"
+    },
+    {
+      "id": "K02",
+      "doi": "10.1038/nature16961",
+      "text": "Silver, D., Huang, A., Maddison, C. J., et al. (2016). Mastering the game of Go with deep neural networks and tree search. Nature 529, 484–489."
+    },
+    {
+      "id": "K03",
+      "doi": "10.1162/neco.1997.9.8.1735",
+      "text": "Hochreiter S, Schmidhuber J. Long Short-Term Memory. Neural Computation. 1997;9:1735–1780. doi:10.1162/neco.1997.9.8.1735"
+    },
+    {
+      "id": "K04",
+      "doi": "10.1145/3065386",
+      "text": "A. Krizhevsky, I. Sutskever and G. E. Hinton. ImageNet classification with deep convolutional neural networks. Communications of the ACM 60, 84–90 (2017)."
+    },
+    {
+      "id": "K05",
+      "doi": "10.1109/cvpr.2016.90",
+      "text": "He, K., Zhang, X., Ren, S., et al. (2016). Deep Residual Learning for Image Recognition. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 770–778. doi:10.1109/cvpr.2016.90"
+    },
+    {
+      "id": "K06",
+      "doi": "10.1038/nature14236",
+      "text": "Mnih V, Kavukcuoglu K, Silver D, et al. Human-level control through deep reinforcement learning. Nature. 2015;518:529–533."
+    },
+    {
+      "id": "K07",
+      "doi": "10.1023/a:1010933404324",
+      "text": "L. Breiman. Random Forests. Machine Learning 45, 5–32 (2001). https://doi.org/10.1023/a:1010933404324"
+    },
+    {
+      "id": "K08",
+      "doi": "10.1007/bf00994018",
+      "text": "Cortes, C., Vapnik, V. (1995). Support-vector networks. Machine Learning 20, 273–297."
+    },
+    {
+      "id": "K09",
+      "doi": "10.1038/171737a0",
+      "text": "Watson JD, Crick FHC. Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid. Nature. 1953;171:737–738. doi:10.1038/171737a0"
+    },
+    {
+      "id": "K10",
+      "doi": "10.18653/v1/n19-1423",
+      "text": "J. Devlin, M. W. Chang, K. Lee et al. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), 4171–4186 (2019)."
+    },
+    {
+      "id": "K11",
+      "doi": "10.1126/science.1127647",
+      "text": "Hinton, G. E., Salakhutdinov, R. R. (2006). Reducing the Dimensionality of Data with Neural Networks. Science 313, 504–507. doi:10.1126/science.1127647"
+    },
+    {
+      "id": "K12",
+      "doi": "10.1145/1327452.1327492",
+      "text": "Dean J, Ghemawat S. MapReduce. Communications of the ACM. 2008;51:107–113."
+    },
+    {
+      "id": "K13",
+      "doi": "10.1038/nature21056",
+      "text": "A. Esteva, B. Kuprel, R. A. Novoa et al. Dermatologist-level classification of skin cancer with deep neural networks. Nature 542, 115–118 (2017). https://doi.org/10.1038/nature21056"
+    },
+    {
+      "id": "K14",
+      "doi": "10.1016/j.neunet.2014.09.003",
+      "text": "Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural Networks 61, 85–117."
+    },
+    {
+      "id": "K15",
+      "doi": "10.1109/5.726791",
+      "text": "Lecun Y, Bottou L, Bengio Y, et al. Gradient-based learning applied to document recognition. Proceedings of the IEEE. 1998;86:2278–2324. doi:10.1109/5.726791"
+    }
+  ]
+}

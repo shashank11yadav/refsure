@@ -1,0 +1,42 @@
+{
+  "name": "refsure",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Checks the references on public arXiv and OpenReview papers against public databases. The developer receives nothing.",
+  "license": "MIT",
+  "author": "shashank11yadav",
+  "engines": {
+    "node": "^22.13.0 || ^24.0.0 || >=26.0.0"
+  },
+  "dependencies": {
+    "pdfjs-dist": "6.4.299"
+  },
+  "devDependencies": {
+    "@eslint/js": "10.0.1",
+    "@playwright/test": "1.64.1",
+    "eslint": "10.13.0",
+    "happy-dom": "21.0.4",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3",
+    "typescript-eslint": "8.72.0",
+    "vitest": "5.0.5",
+    "wxt": "0.21.4"
+  },
+  "overrides": {
+    "minimatch": "11.0.5"
+  },
+  "scripts": {
+    "postinstall": "wxt prepare",
+    "dev": "wxt",
+    "dev:firefox": "wxt -b firefox",
+    "build": "wxt build -b chrome && wxt build -b edge && wxt build -b firefox",
+    "zip": "wxt zip -b chrome && wxt zip -b edge && wxt zip -b firefox",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "verify": "tsc --noEmit && eslint . && vitest run && npm audit --omit=dev --audit-level=moderate",
+    "eval": "tsx scripts/eval.ts"
+  }
+}

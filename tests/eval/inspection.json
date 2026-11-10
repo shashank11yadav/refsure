@@ -1,0 +1,814 @@
+{
+  "arxiv-html:2503.00258#13": {
+    "verdict": "real",
+    "cause": "news article, not a scholarly record",
+    "note": "A Futurism news article (2023). Real, but in no scholarly database; the design calls such entries Can't check."
+  },
+  "arxiv-html:2503.05793#18": {
+    "verdict": "real",
+    "cause": "manual / grey literature",
+    "note": "Training manual of a medical school programme. Real, not indexed anywhere."
+  },
+  "arxiv-html:2503.05793#32": {
+    "verdict": "problem",
+    "cause": "not confirmed in any source",
+    "note": "No record with this title in Crossref (title and bibliographic search with the journal filter) or arXiv. A similar real paper exists (Li, Zheng, Lajoie, Med. Sci. Educ. 33, 2023), so the entry is probably mis-cited. Left as correctly flagged."
+  },
+  "arxiv-html:2503.05793#40": {
+    "verdict": "real",
+    "cause": "web page",
+    "note": "OpenAI's GPT-4o announcement page. The entry has no address in its text, so it was not recognised as a web page."
+  },
+  "arxiv-html:2503.00260#29": {
+    "verdict": "real",
+    "cause": "cited title is shortened",
+    "note": "Crossref has the work as \"A General Framework for Designing Catadioptric Imaging and Projection Systems\" (Swaminathan, Grossberg, Nayar, 2003, DOI 10.21236/ada451434); the reference drops \"A General\"."
+  },
+  "arxiv-html:2503.00273#10": {
+    "verdict": "real",
+    "cause": "journal not indexed",
+    "note": "Burnashev, Problems of Information Transmission 12(4), 1976 (a classic). Crossref has the journal only from later years; a title search finds nothing."
+  },
+  "arxiv-html:2503.00273#30": {
+    "verdict": "real",
+    "cause": "arXiv title differs from the published title",
+    "note": "The arXiv paper 2201.04469 is titled \"Optimal Best Arm Identification in Two-Armed Bandits with a Fixed Budget under a Small Gap\"; the reference gives the title of the journal version."
+  },
+  "arxiv-html:2503.01913#38": {
+    "verdict": "real",
+    "cause": "math markup in the database title",
+    "note": "Crossref has it (10.1016/j.laa.2008.01.002, Liang, Pan, Wang, 2008) with the title \"The critical group of K_m x P_n\" written in MathML, which does not read as the LaTeX the reference carries. The TeX in the cited title (\"k_{m}\\times p_{n}\") also spoils the Crossref queries (they answer with unrelated records). LaTeX operators are read like the printed symbols, and the reference is Verified through its OpenAlex record."
+  },
+  "arxiv-html:2503.00632#25": {
+    "verdict": "real",
+    "cause": "dataset / survey page",
+    "note": "The Poverty Tracker survey (Robin Hood, Columbia): a real data source cited by name, in no scholarly database."
+  },
+  "arxiv-html:2503.00632#32": {
+    "verdict": "real",
+    "cause": "web report",
+    "note": "Amnesty International Austria report, a real grey-literature document. arXiv's own rendering printed its address as 'External Links: Link', which the extractor now leaves out, so the entry no longer looks like a web page."
+  },
+  "arxiv-html:2503.00632#36": {
+    "verdict": "real",
+    "cause": "proceedings not indexed (PMLR)",
+    "note": "Liu, Lu, Wang, Jordan, Yang, ICML 2022, PMLR 162:13870-13911. Real; PMLR papers have no DOI and are not in Crossref, arXiv, OpenReview or OpenAlex under this title (searched by hand)."
+  },
+  "arxiv-html:2503.00632#37": {
+    "verdict": "real",
+    "cause": "thesis / old Swedish text",
+    "note": "Lundberg's 1903 Uppsala thesis on collective risk theory, a classic of actuarial science; in no database."
+  },
+  "arxiv-html:2503.00252#27": {
+    "verdict": "real",
+    "cause": "conference proceedings not indexed",
+    "note": "Ang et al., MDvDM 2024 workshop proceedings, pp. 18-21. Real; Crossref only has the group's other directional dark matter papers (searched by hand)."
+  },
+  "arxiv-pdf:1903.00243#26": {
+    "verdict": "real",
+    "cause": "preprint not posted",
+    "note": "Le Floch and LeFloch, 'Preprint 2023': a real preprint that is not on arXiv under this title (the 2019 'seed-to-solution method' paper is the closest)."
+  },
+  "arxiv-pdf:2003.00498#3": {
+    "verdict": "real",
+    "cause": "company technical paper",
+    "note": "Fair Isaac internal technical paper (B. Hoadley, 2000). Real grey literature, in no database."
+  },
+  "arxiv-pdf:2003.00498#4": {
+    "verdict": "real",
+    "cause": "company technical paper",
+    "note": "Fair Isaac technical paper (B. Hoadley, 1998). Real grey literature."
+  },
+  "arxiv-pdf:2003.00498#5": {
+    "verdict": "real",
+    "cause": "company technical paper",
+    "note": "Fair Isaac technical paper (B. Hoadley, 1998). Real grey literature."
+  },
+  "arxiv-pdf:2003.00498#7": {
+    "verdict": "real",
+    "cause": "company technical paper",
+    "note": "Fair Isaac technical paper (B. Hoadley, 1998). Real grey literature."
+  },
+  "arxiv-pdf:2003.00498#8": {
+    "verdict": "real",
+    "cause": "company technical paper",
+    "note": "Fair Isaac technical paper (B. Hoadley, 2002). Real grey literature."
+  },
+  "arxiv-pdf:1801.00631#36": {
+    "verdict": "real",
+    "cause": "report not indexed",
+    "note": "Lighthill, \"Artificial Intelligence: A General Survey\" (1973), the report to the Science Research Council. Real, in none of the databases. Not found when OpenAlex answers; Can't check when its daily budget is used up."
+  },
+  "openreview:1810.05331#10": {
+    "verdict": "real",
+    "cause": "proceedings not indexed (NIPS 1993)",
+    "note": "Hassibi, Stork, Wolff, \"Optimal brain surgeon: extensions and performance comparisons\", NIPS 6 (1993). Real; NIPS proceedings of that year are not in Crossref and not found in OpenAlex."
+  },
+  "openreview:1910.00359#33": {
+    "verdict": "real",
+    "cause": "journal not indexed",
+    "note": "Nesterov, \"A method for unconstrained convex minimization problem with the rate of convergence O(1/k^2)\", Doklady AN SSSR 269 (1983). A classic; the journal of that year is not indexed."
+  },
+  "openreview:2012.06717#16": {
+    "verdict": "real",
+    "cause": "conference abstract",
+    "note": "Jain, LeBel, Huth, \"Improving language encoding of fMRI responses with transformers\", Society for Neuroscience 2019 abstract. Real, not indexed. It names no venue, so it is Can't check."
+  },
+  "openreview:2206.00941#6": {
+    "verdict": "real",
+    "cause": "software",
+    "note": "JAX (Bradbury et al., 2018), cited by its GitHub release. Real software, not a scholarly record. It names no venue, so it is Can't check."
+  },
+  "arxiv-html:2609.00504#16": {
+    "verdict": "real",
+    "cause": "TeX macro in the title breaks the searches",
+    "note": "arXiv 2403.07890 (Mao, Qiu, Wang, Franke, Kalbarczyk, Başar, L4DC 2024), titled \"$\\widetilde{O}(T^{-1})$ Convergence to (Coarse) Correlated Equilibria in Full-Information General-Sum Markov Games\". The reference carries \\widetilde{O}(T^{-1}) as raw TeX; the arXiv title query became ti:\"widetildeo t 1 convergence ...\", which matches nothing, and Crossref and OpenAlex have no record of the PMLR paper. Searching arXiv for the title without the macro finds it at once."
+  },
+  "arxiv-html:2609.00505#20": {
+    "verdict": "real",
+    "cause": "an author name in lower case is read as the title",
+    "note": "LoRA (Hu, Shen, Wallis, Allen-Zhu, Li, Wang, Wang, Chen, ICLR 2022; arXiv 2106.09685). The paper writes the second author as \"yelong shen\" in lower case, so the reader takes \"yelong shen, P. Wallis, ... L. Wang\" as the title and every source is searched for the author list. The real title follows the year: \"LoRA: low-rank adaptation of large language models\"."
+  },
+  "arxiv-html:2609.00515#33": {
+    "verdict": "real",
+    "cause": "proceedings not indexed",
+    "note": "Purason and Tättar, EAMT 2022 (Ghent), pp. 91-100, ACL Anthology 2022.eamt-1.12. The EAMT 2022 proceedings have no Crossref DOI and OpenAlex's search does not return the paper; Crossref returns only the authors' later papers. DBLP would know it but answers the eval with a bot check."
+  },
+  "arxiv-html:2609.00520#8": {
+    "verdict": "problem",
+    "cause": "not confirmed in any source",
+    "note": "No such paper. Journal of Neurophysiology 98(6) has no article on pp. 3765-3780 (Crossref: pp. 3759-3769 Bremen et al., 3770-3779 Göbel and Helmchen, 3780-3790 Tolias et al.). The three authors did write \"Auditory thalamocortical synaptic transmission in vitro\" (J. Neurophysiol. 87, 361-384, 2002), and Crossref and OpenAlex both return that record, which differs in title and year. Left as correctly flagged."
+  },
+  "arxiv-html:2609.00520#24": {
+    "verdict": "problem",
+    "cause": "not confirmed in any source",
+    "note": "No work with this title by Jajcay in Crossref, OpenAlex or arXiv. The cited article number (Front. Comput. Neurosci. 16, 769860, 2022, DOI 10.3389/fncom.2022.769860) belongs to Jajcay, Cakan and Obermayer, \"Cross-Frequency Slow Oscillation-Spindle Coupling in a Biophysically Realistic Thalamocortical Neural Mass Model\": a different title and two different co-authors (the reference has Hlinka and Tinker). Mis-cited; left as correctly flagged."
+  },
+  "arxiv-pdf:1801.00631#4": {
+    "verdict": "real",
+    "cause": "talk",
+    "note": "Léon Bottou's invited talk at ICML 2015 (Lille), listed in the ICML 2015 programme as \"Two high stakes challenges in machine learning\" and on Bottou's own talks page as \"Two big Challenges in Machine Learning (ICML 2015)\"; slides only, no paper in any database. It reads as a talk, so it is Can't check."
+  },
+  "arxiv-pdf:1904.00690#5": {
+    "verdict": "problem",
+    "cause": "reference garbled in the paper",
+    "note": "The title is real: Adwan, Faris, Jaradat, Harfoushi and Ghatasheh, \"Predicting customer churn in telecom industry using multilayer preceptron neural networks: modeling and analysis\", Life Science Journal 11(3), 75-81, 2014 (found through another paper's reference list; that journal is in none of the databases and Crossref has no record of the title). The paper cites it as by \"Bott.\" in \"Igarss\" 11(1):1-5, so author, venue, issue and pages are all wrong as cited. Left as correctly flagged."
+  },
+  "arxiv-html:2610.01008#14": {
+    "verdict": "real",
+    "cause": "dataset, not a paper",
+    "note": "Copernicus Marine Service product GLOBAL_MULTIYEAR_WAV_001_032, \"Global Ocean Waves Reanalysis\" (WAVERYS, Mercator Ocean / Meteo France; DOI 10.48670/moi-00022, a DataCite DOI). Real, cited correctly with its product id. The parser reads \"Copernicus Marine Service\" as the venue and the corporate author as one name \"information\", so the no-venue rule does not apply and it reaches Not found; a dataset should be Can't check. Its sister product (#13, physics reanalysis) happened to match an OpenAlex mirror record."
+  },
+  "arxiv-html:2610.01008#16": {
+    "verdict": "real",
+    "cause": "legislation, not a paper",
+    "note": "Directive (EU) 2023/959 of 10 May 2023 amending Directive 2003/87/EC (EU ETS), Official Journal of the European Union L 130, 16.5.2023, pp. 134-202 (EUR-Lex eli/dir/2023/959/oj). Cited exactly. EU legislation is in none of the databases; the \"Note: Official Journal ..., L 130, ..., pp. 134-202\" is read as a journal venue with pages, so it reaches Not found instead of Can't check."
+  },
+  "arxiv-html:2610.01008#30": {
+    "verdict": "real",
+    "cause": "methodology note of a statistics database, not a paper",
+    "note": "OECD's experimental \"Maritime transport CO2 emissions\" database (oecd.org data/datasets/maritime-transport-co2-emissions) is real; the reference is the methodological note of its 2025-Q1 release. The note itself was not located on the web, but nothing suggests it is invented, and grey literature of this kind is in no scholarly database. The \"Note: Methodological note for ...\" text is read as the venue, so the no-venue rule does not apply. Should be Can't check."
+  },
+  "arxiv-html:2610.22417#2": {
+    "verdict": "problem",
+    "cause": "mis-cited title",
+    "note": "The four authors' paper at J. Stat. Phys. 50(1), 1-40 (1988) is \"Discontinuity of the magnetization in one-dimensional 1/|x-y|^2 Ising and Potts models\" (DOI 10.1007/BF01022985). The cited title (\"Discontinuity of the order parameter in one-dimensional long-range percolation in the 1/|i-j|^2 case\") is no paper's title: it mixes that one with Aizenman and Newman's \"Discontinuity of the percolation density in one dimensional 1/|x-y|^2 percolation models\" (Commun. Math. Phys. 1986). Crossref returned the real record second, but the titles are too far apart to match. Mis-cited, like 2609.00520#8; left as correctly flagged."
+  },
+  "arxiv-html:2610.22417#36": {
+    "verdict": "problem",
+    "cause": "not confirmed in any source",
+    "note": "No such article. Probab. Theory Related Fields 185 (2023), issue 1-2, has Norris, Silvestri and Turner on pp. 185-250 (Crossref); no article by Tanaka is in volume 185. Crossref (author Tanaka with long-range percolation), OpenAlex and arXiv (author Tanaka, \"long-range percolation\" in the abstract) have no work with this title. Left as correctly flagged."
+  },
+  "arxiv-html:2610.22417#40": {
+    "verdict": "problem",
+    "cause": "not confirmed in any source",
+    "note": "No such article. Combin. Probab. Comput. 2(2) (1993) has Alm on pp. 115-136 and Alon and Yuster on pp. 137-144 (Crossref, whole issue listed); nothing by van den Berg. The title resembles van den Berg and Kesten, \"Inequalities with applications to percolation and reliability\" (J. Appl. Probab. 22, 1985), but no work with the cited title is in Crossref, OpenAlex or arXiv. Left as correctly flagged. (With #2 and #36, three of this paper's first 40 references do not exist as cited.)"
+  },
+  "arxiv-html:2610.21317#3": {
+    "verdict": "real",
+    "cause": "maths in the title defeats the searches",
+    "note": "Balram and Wójs, \"Fractional quantum Hall effect at ν=2+4/9\", Phys. Rev. Research 2, 032035 (2020), DOI 10.1103/PhysRevResearch.2.032035; arXiv 2003.07038 (\"Fractional Quantum Hall Effect at $ν=2+4/9$\"). Cited correctly. The title search phrase becomes \"fractional quantum hall effect at nu 2 4 9\": arXiv's title has the Greek ν, so its phrase search finds nothing, and Crossref's title holds MathML, so its record is not in the top ten (other Balram papers are). OpenAlex's search found nothing either. A false Not found."
+  },
+  "arxiv-html:2610.27412#26": {
+    "verdict": "real",
+    "cause": "chemical formula in the title: the cited lower-cased \"cecoin5 at 2.3 k\" against Crossref's \"CeCoIn<sub>5</sub> at 2.3 K\"; no search ranked the record, and a titled reference gets no journal-locator lookup",
+    "note": "Petrovic et al., \"Heavy-fermion superconductivity in CeCoIn5 at 2.3 K\", J. Phys.: Condens. Matter 13, L337-L342 (2001), DOI 10.1088/0953-8984/13/17/103 (Crossref). The engine's Crossref title search (title, first author, year) did not return it in the first ten, and OpenAlex and arXiv returned other CeCoIn5 papers; a Crossref search that adds the journal, volume and page returns it first. A false Not found."
+  },
+  "arxiv-html:2610.27412#39": {
+    "verdict": "real",
+    "cause": "dataset cited by its common name with its DataCite DOI; the DOI record carries another title (\"MDR SuperCon Datasheet\"), so the title check calls the DOI another work",
+    "note": "NIMS SuperCon database, DOI 10.48505/nims.3739 (2022): OpenAlex holds the DOI as \"MDR SuperCon Datasheet\" in the Materials Data Repository; Crossref answers 404 (not a Crossref DOI). The DOI is the right one for the cited database, so the label is a false Wrong ID."
+  },
+  "arxiv-html:2610.28357#9": {
+    "verdict": "real",
+    "cause": "book chapter cited as \"Title. In <book title>, pp.\" with no publisher, editor or year, read as a titled paper; no database holds the chapter",
+    "note": "D. V. Cross, \"On judgments of magnitude\", in B. Wegener (ed.), Social Attitudes and Psychophysical Measurement, pp. 73-88 (Erlbaum, 1982). Crossref holds the book (Routledge reissue, DOI 10.4324/9780203780947) but no record for the chapter; OpenAlex and arXiv have nothing. Real, so Can't check by the design, not Not found."
+  },
+  "arxiv-html:2610.28357#28": {
+    "verdict": "real",
+    "cause": "working paper: \"Philosophy and Probability Working Paper 6\" is read as a journal, so the reference is not treated as grey literature",
+    "note": "R. Haenni, \"Ignoring ignorance is ignorant\", a working paper of the philosophy and probability research group at the University of Konstanz (2003), listed on ResearchGate (publication 228984575). No record in Crossref, OpenAlex, arXiv or OpenReview. Real, so Can't check by the design, not Not found."
+  },
+  "arxiv-html:2610.39072#20": {
+    "verdict": "real",
+    "cause": "talk and software: a conference talk with a GitHub address, read as a paper because the conference is named",
+    "note": "M. Macklin, \"Warp: A high-performance Python framework for GPU simulation and graphics\", a talk at NVIDIA GTC 2022 about the open-source Warp library (github.com/NVIDIA/warp), cited as the project asks. No paper of that title in Crossref, OpenAlex, arXiv or OpenReview (the engine's Crossref top 10 has the later \"Warp: Differentiable Spatial Computing for Python\", another work). Real, so Can't check by the design, not Not found."
+  },
+  "arxiv-html:2610.39074#21": {
+    "verdict": "real",
+    "cause": "journal not indexed (Sov. Phys. JETP 1956)",
+    "note": "I. M. Lifshitz and A. M. Kosevich, \"Theory of magnetic susceptibility in metals at low temperatures\", Sov. Phys. JETP 2, 636 (1956), the classic Lifshitz-Kosevich paper, cited correctly. The translation journal of 1956 is in no database: the engine's Crossref and OpenAlex searches and a Crossref search by hand with journal, volume and page find only later papers about the theory."
+  },
+  "arxiv-html:2610.39147#4": {
+    "verdict": "real",
+    "cause": "journal not indexed (a law review of 1965)",
+    "note": "J. F. Banzhaf III, \"Weighted voting doesn't work: A mathematical analysis\", Rutgers Law Review 19, 317-343 (1965), the paper that introduced the Banzhaf index, cited correctly. Rutgers Law Review of 1965 is not in Crossref or OpenAlex (the engine's searches and a Crossref search by hand with the journal give other voting papers)."
+  },
+  "arxiv-html:2610.41111#13": {
+    "verdict": "problem",
+    "cause": "not confirmed in any source; the arXiv number belongs to another paper",
+    "note": "\"Dropoutunet: A deep neural network with dropout regularization for semantic segmentation\" (Mishra, Jain, Ghosal et al., arXiv:1804.03932, 2018). arXiv 1804.03932 is \"Cooperative Energy Efficient Power Allocation Algorithm for downlink massive MIMO\". No work of the cited title in Crossref (a search by hand gives other dropout papers), arXiv, OpenAlex or a web search. Faulty as cited, so Wrong ID is right."
+  },
+  "arxiv-html:2610.41107#19": {
+    "verdict": "real",
+    "cause": "Elsevier style \"Title, in: Venue, Year, pp.\": the conference name was read into the title, so every search carried it and found nothing",
+    "note": "Y. Terada and U. von Luxburg, \"Local ordinal embedding\", ICML 2014 (PMLR 32), pp. 847-855, cited correctly. The engine searched for \"Local ordinal embedding, in: International Conference on Machine Learning\" in Crossref, arXiv (0 results), OpenReview and OpenAlex. A false Not found."
+  },
+  "arxiv-html:2610.41107#31": {
+    "verdict": "real",
+    "cause": "course project report, in no scholarly database",
+    "note": "Y. Le and X. Yang, \"Tiny ImageNet visual recognition challenge\", Stanford CS 231N course report (2015), the source of the Tiny ImageNet dataset, cited in the usual Google Scholar form \"CS 231N 7 (7) (2015) 3\". Real (web search), not in Crossref, arXiv or OpenAlex; the number pattern reads as a journal's volume and page, so Not found instead of Can't check."
+  },
+  "arxiv-html:2610.41107#38": {
+    "verdict": "real",
+    "cause": "Elsevier style \"Title, in: Venue, Vol., Year, pp.\": the conference name was read into the title, so every search carried it and found nothing",
+    "note": "A. Baevski, Y. Zhou, A. Mohamed, M. Auli, \"wav2vec 2.0: A framework for self-supervised learning of speech representations\", NeurIPS 33 (2020), pp. 12449-12460, arXiv:2006.11477. The engine's arXiv title search was \"... speech representations in advances in neural information processing systems\" (0 results); Crossref and OpenAlex searches with the same tail gave other wav2vec papers. A false Not found."
+  },
+  "arxiv-html:2610.41101#25": {
+    "verdict": "real",
+    "cause": "chemical formula in the title (MathML in Crossref's record) and the venue cut to \"Phys\", so no search ranked the record and no journal-locator lookup ran",
+    "note": "T. Kawamura and S. Das Sarma, \"Phonon-scattering-limited electron mobilities in AlxGa1-xAs/GaAs heterojunctions\", Phys. Rev. B 45 (7), 3612-3627 (1992), DOI 10.1103/PhysRevB.45.3612 (Crossref by DOI, by hand; its title holds MathML for Al_x and Ga_{1-x}). The engine's Crossref top 10 and OpenAlex top 5 gave other AlGaAs papers. The parser reads the venue of this \"(Year) Title. Journal Vol (Issue), pp.\" style as \"Phys\", so the locator lookup could not run. A false Not found."
+  },
+  "arxiv-html:2610.41103#1": {
+    "verdict": "real",
+    "cause": "news article: a newspaper named \"Journal\" read as a journal, despite its web address",
+    "note": "Climate Leadership Council, \"Economists' Statement on Carbon Dividends\", The Wall Street Journal (January 2019), cited with its wsj.com address. A real newspaper statement, in no scholarly database; the design calls such entries Can't check, not Not found."
+  },
+  "arxiv-html:2609.00505#8": {
+    "verdict": "problem",
+    "cause": "mis-cited: a dataset's name given as the title, with a venue and pages that are not its paper's",
+    "note": "D. L. Chen and W. B. Dolan (2011), \"Microsoft research video description corpus\", In Proceedings of the Workshop on Languages in Social Media, pp. 44-52. The Microsoft Research Video Description Corpus (MSVD) is a real dataset by Chen and Dolan, but its paper is \"Collecting highly parallel data for paraphrase evaluation\" (ACL 2011, pp. 190-200). No work of the cited title is found in Crossref, OpenAlex, arXiv or a web search; the engine's searches give only later papers about the corpus. Faulty as cited, so Not found is right; before, it was Details differ against an unrelated 2018 paper about the corpus."
+  },
+  "outOfScope": [
+    {
+      "case": "arxiv-html:2503.00252#25",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Thorlabs product web page (single-crystal diamonds), not a publication."
+    },
+    {
+      "case": "arxiv-html:2503.00258#14",
+      "kind": "dataset (Kaggle, Hugging Face, CIFAR page)",
+      "note": "Kaggle competition dataset (ASAP 2.0); no paper record."
+    },
+    {
+      "case": "arxiv-html:2503.00266#20",
+      "kind": "website, software page, talk or dataset page",
+      "note": "GitHub software repository (pytorch-fid, version 0.3.0)."
+    },
+    {
+      "case": "arxiv-html:2503.00271#3",
+      "kind": "website, software page, talk or dataset page",
+      "note": "AWS Signer developer guide: online documentation page."
+    },
+    {
+      "case": "arxiv-html:2503.00271#6",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Sigstore blog post."
+    },
+    {
+      "case": "arxiv-html:2503.00271#12",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "CNCF technical report (software supply chain best practices), hosted on GitHub."
+    },
+    {
+      "case": "arxiv-html:2503.00271#26",
+      "kind": "website, software page, talk or dataset page",
+      "note": "The Update Framework (TUF) project website."
+    },
+    {
+      "case": "arxiv-html:2503.00346#22",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Recorded talk (Kitaev, Fundamental Physics Prize Symposium 2014) on YouTube."
+    },
+    {
+      "case": "arxiv-html:2503.00475#20",
+      "kind": "journal not in Crossref (Sov. Phys. JETP; Sitzungsber. Preuss. Akad. 1916-18)",
+      "note": "Sov. Phys. JETP 1964 (Dzyaloshinskii): the translation journal is not in Crossref, and the reference has no title."
+    },
+    {
+      "case": "arxiv-html:2503.00632#16",
+      "kind": "website, software page, talk or dataset page",
+      "note": "U.S. Census Bureau dataset page (SIPP 2014 panel)."
+    },
+    {
+      "case": "arxiv-html:2503.01913#21",
+      "kind": "thesis",
+      "note": "Master thesis, Cinvestav-IPN (2010); no database record."
+    },
+    {
+      "case": "arxiv-html:2503.05793#40",
+      "kind": "website, software page, talk or dataset page",
+      "note": "OpenAI GPT-4o product page (accessed date only)."
+    },
+    {
+      "case": "arxiv-html:2504.01995#17",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Google Gemini API documentation page."
+    },
+    {
+      "case": "arxiv-html:2504.01995#28",
+      "kind": "dataset (Kaggle, Hugging Face, CIFAR page)",
+      "note": "Hugging Face dataset (NuminaMath)."
+    },
+    {
+      "case": "arxiv-html:2505.00243#14",
+      "kind": "work in preparation",
+      "note": "Work in preparation (Hartmann et al. 2025): not published yet."
+    },
+    {
+      "case": "arxiv-html:2505.00243#39",
+      "kind": "thesis",
+      "note": "PhD thesis, MIT (2022); theses are not reliably in these databases."
+    },
+    {
+      "case": "arxiv-pdf:1602.03837#1",
+      "kind": "journal not in Crossref (Sov. Phys. JETP; Sitzungsber. Preuss. Akad. 1916-18)",
+      "note": "Einstein 1916, Sitzungsber. K. Preuss. Akad. Wiss.: the academy proceedings are not in Crossref, and the reference has no title."
+    },
+    {
+      "case": "arxiv-pdf:1602.03837#2",
+      "kind": "journal not in Crossref (Sov. Phys. JETP; Sitzungsber. Preuss. Akad. 1916-18)",
+      "note": "Einstein 1918, Sitzungsber. K. Preuss. Akad. Wiss.: not in Crossref, no title."
+    },
+    {
+      "case": "arxiv-pdf:1602.03837#4",
+      "kind": "journal not in Crossref (Sov. Phys. JETP; Sitzungsber. Preuss. Akad. 1916-18)",
+      "note": "Schwarzschild 1916, Sitzungsber. K. Preuss. Akad. Wiss.: not in Crossref, no title."
+    },
+    {
+      "case": "arxiv-pdf:1602.03837#25",
+      "kind": "journal not in Crossref (Sov. Phys. JETP; Sitzungsber. Preuss. Akad. 1916-18)",
+      "note": "Gertsenshtein and Pustovoit 1962, Sov. Phys. JETP: the translation journal is not in Crossref, no title."
+    },
+    {
+      "case": "arxiv-pdf:1602.03837#27",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "MIT RLE quarterly progress report No. 105 (Weiss 1972), LIGO DCC copy."
+    },
+    {
+      "case": "arxiv-pdf:1602.03837#29",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "LIGO technical report (1989, the LIGO proposal), LIGO DCC."
+    },
+    {
+      "case": "arxiv-pdf:1602.03837#31",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "Virgo Project technical report VIR-0517A-15 (1989)."
+    },
+    {
+      "case": "arxiv-pdf:1602.03837#32",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "MPQ technical report 147 (GEO proposal, 1989), university eprint server."
+    },
+    {
+      "case": "arxiv-pdf:1602.03837#37",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "Note pointing to a waveform download (SXS:BBH:0305), not a publication."
+    },
+    {
+      "case": "arxiv-pdf:1602.03837#39",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "Bare LIGO DCC link (B. Abbott et al.) with no title."
+    },
+    {
+      "case": "arxiv-pdf:1801.00631#11",
+      "kind": "reference garbled in the paper itself (Google-Scholar export)",
+      "note": "ImageNet (CVPR 2009) reference garbled in the paper itself (a Google Scholar export): names, title and venue run together."
+    },
+    {
+      "case": "openreview:1810.05331#21",
+      "kind": "dataset (Kaggle, Hugging Face, CIFAR page)",
+      "note": "CIFAR-10/100 dataset web page (Toronto)."
+    },
+    {
+      "case": "openreview:1812.01054#39",
+      "kind": "thesis",
+      "note": "PhD thesis, TU Munich (Schmidhuber 1987)."
+    },
+    {
+      "case": "openreview:2001.07457#8",
+      "kind": "software (JAX, \"GitHub\")",
+      "note": "JAX software on GitHub (2018)."
+    },
+    {
+      "case": "arxiv-html:2503.00258#13",
+      "kind": "news article",
+      "note": "News article (Futurism, 2023) about CNET."
+    },
+    {
+      "case": "arxiv-html:2503.05793#18",
+      "kind": "training manual",
+      "note": "Training manual for standardized patients (MIRS), Eastern Virginia Medical School."
+    },
+    {
+      "case": "arxiv-html:2503.00632#25",
+      "kind": "dataset / survey",
+      "note": "Survey dataset (NYC longitudinal survey of well-being, Poverty Tracker 2015-2018)."
+    },
+    {
+      "case": "arxiv-html:2503.00632#32",
+      "kind": "NGO report",
+      "note": "NGO report (Amnesty International Austria)."
+    },
+    {
+      "case": "arxiv-html:2503.00632#37",
+      "kind": "thesis (1903)",
+      "note": "Swedish thesis of 1903 (Lundberg), in no scholarly database."
+    },
+    {
+      "case": "arxiv-pdf:2003.00498#3",
+      "kind": "company technical paper",
+      "note": "FICO (Fair, Isaac) restricted company technical paper, 2000."
+    },
+    {
+      "case": "arxiv-pdf:2003.00498#4",
+      "kind": "company technical paper",
+      "note": "FICO (Fair, Isaac) company technical paper, 1998."
+    },
+    {
+      "case": "arxiv-pdf:2003.00498#5",
+      "kind": "company technical paper",
+      "note": "FICO (Fair, Isaac) company technical paper, 1998."
+    },
+    {
+      "case": "arxiv-pdf:2003.00498#7",
+      "kind": "company technical paper",
+      "note": "FICO (Fair, Isaac) company technical paper, 1998."
+    },
+    {
+      "case": "arxiv-pdf:2003.00498#8",
+      "kind": "company technical paper",
+      "note": "FICO (Fair, Isaac) company technical paper, 2002."
+    },
+    {
+      "case": "arxiv-html:2609.00517#30",
+      "kind": "thesis",
+      "note": "Student thesis (University of Amsterdam thesis repository, 2026), cited with its repository address; not in a scholarly database."
+    },
+    {
+      "case": "arxiv-html:2609.02580#14",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Google Gemini API product page, not a publication."
+    },
+    {
+      "case": "arxiv-html:2609.02580#23",
+      "kind": "website, software page, talk or dataset page",
+      "note": "OpenAI API product page, not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.00850#6",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Endor Labs blog post (Agent security league), with an access date."
+    },
+    {
+      "case": "arxiv-html:2610.00850#8",
+      "kind": "website, software page, talk or dataset page",
+      "note": "GitHub Advisory Database repository snapshot."
+    },
+    {
+      "case": "arxiv-html:2610.00850#11",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Meta research blog post announcing a model release."
+    },
+    {
+      "case": "arxiv-html:2610.00850#13",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Qwen team blog post (Qwen3.5)."
+    },
+    {
+      "case": "arxiv-html:2610.00850#17",
+      "kind": "website, software page, talk or dataset page",
+      "note": "METR blog post on reward hacking (2025)."
+    },
+    {
+      "case": "arxiv-html:2610.00990#29",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Janelia Research Campus Figshare dataset page (data for Kim et al. 2019)."
+    },
+    {
+      "case": "arxiv-html:2610.00877#25",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "U.S. Army Research Laboratory technical report (Sarney 2003), published by ARL, Adelphi MD."
+    },
+    {
+      "case": "arxiv-html:2610.01008#27",
+      "kind": "company technical paper",
+      "note": "MAN Energy Solutions, Basic principles of ship propulsion (company technical paper)."
+    },
+    {
+      "case": "arxiv-html:2610.01008#32",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "A. Peters, Beached assets? Capital turnover and emissions in shipping: an unpublished working paper."
+    },
+    {
+      "case": "arxiv-html:2610.21033#9",
+      "kind": "company technical paper",
+      "note": "Apple Differential Privacy Team, Learning with privacy at scale (2017): an article on Apple's machine learning research site."
+    },
+    {
+      "case": "arxiv-html:2610.21058#22",
+      "kind": "work in preparation",
+      "note": "Unpublished lecture notes (Dowd 2023, notes on Haar measures on Lie groups), marked unpublished in the reference."
+    },
+    {
+      "case": "arxiv-html:2610.21176#8",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Transformer Circuits Thread web article (Elhage et al. 2021, A mathematical framework for transformer circuits)."
+    },
+    {
+      "case": "arxiv-html:2610.21176#36",
+      "kind": "company technical paper",
+      "note": "OpenAI technical report (Radford et al. 2019, Language models are unsupervised multitask learners), published on the company's site only."
+    },
+    {
+      "case": "arxiv-html:2610.21711#2",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A company's GitHub repository of reference agent code (2026), cited with its URL."
+    },
+    {
+      "case": "arxiv-html:2610.01008#14",
+      "kind": "dataset (Kaggle, Hugging Face, CIFAR page)",
+      "note": "Copernicus Marine Service dataset (Global Ocean Waves Reanalysis, product GLOBAL_MULTIYEAR_WAV_001_032)."
+    },
+    {
+      "case": "arxiv-html:2610.01008#16",
+      "kind": "legislation",
+      "note": "Directive (EU) 2023/959, Official Journal L 130, 16.5.2023 (EUR-Lex)."
+    },
+    {
+      "case": "arxiv-html:2610.01008#30",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "Methodology note of OECD's maritime transport CO2 emissions database (2025-Q1 release)."
+    },
+    {
+      "case": "arxiv-html:2610.27435#38",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Release announcement of a benchmark on its web site (2026), cited with its URL; not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.27434#30",
+      "kind": "software (JAX, \"GitHub\")",
+      "note": "GitHub repository with the paper's own source code (2026)."
+    },
+    {
+      "case": "arxiv-html:2610.27412#28",
+      "kind": "not a reference (a footnote in the reference list)",
+      "note": "Not a reference: a footnote about the 120-element input size that the paper's reference list holds as an entry."
+    },
+    {
+      "case": "arxiv-html:2610.28357#12",
+      "kind": "thesis",
+      "note": "Master's thesis, University of Waterloo; theses are not reliably in these databases."
+    },
+    {
+      "case": "arxiv-html:2610.28357#21",
+      "kind": "news article",
+      "note": "E. M. Forster's essay \"What I believe\" in The Nation (1938), later collected in a book; a magazine essay, not a scholarly record."
+    },
+    {
+      "case": "arxiv-html:2610.27576#21",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A sports league's 2026 regulations on its web site (in Korean), cited with its URL."
+    },
+    {
+      "case": "arxiv-html:2610.27576#30",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A sports portal's schedules, box scores and pitch data (in Korean, 2021-2026), cited with its URL."
+    },
+    {
+      "case": "arxiv-html:2610.27420#12",
+      "kind": "work in preparation",
+      "note": "Medeiros and Melikyan, marked \"(in preparation)\": not published yet."
+    },
+    {
+      "case": "arxiv-html:2610.27420#13",
+      "kind": "work in preparation",
+      "note": "Melikyan and Pinzul, marked \"(in preparation)\": not published yet."
+    },
+    {
+      "case": "arxiv-html:2610.27420#14",
+      "kind": "work in preparation",
+      "note": "Melikyan and Pinzul, marked \"(in preparation)\": not published yet."
+    },
+    {
+      "case": "arxiv-pdf:2610.31730#1",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "The 2015 Long Range Plan for Nuclear Science, a report of the DOE/NSF Nuclear Science Advisory Committee; the engine's Crossref and OpenAlex searches found no record of it."
+    },
+    {
+      "case": "arxiv-html:2610.39072#7",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A data standard's web page (CGNS SIDS, release 4.5, 2026), cited with its URL; not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.39072#19",
+      "kind": "dataset (Kaggle, Hugging Face, CIFAR page)",
+      "note": "A Hugging Face dataset page (SHIFT-SUV, 2025), cited with its URL."
+    },
+    {
+      "case": "arxiv-html:2610.39072#23",
+      "kind": "software (JAX, \"GitHub\")",
+      "note": "A GitHub software repository (DALI data loading library, 2018)."
+    },
+    {
+      "case": "arxiv-html:2610.39072#24",
+      "kind": "software (JAX, \"GitHub\")",
+      "note": "A GitHub software repository (cuEquivariance, 2024)."
+    },
+    {
+      "case": "arxiv-html:2610.39072#33",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A project blog post (PhysicsNeMo blog, April 2026), cited with its URL."
+    },
+    {
+      "case": "arxiv-html:2610.39072#37",
+      "kind": "software (JAX, \"GitHub\")",
+      "note": "A GitHub software repository (UXarray, 2026)."
+    },
+    {
+      "case": "arxiv-html:2610.39074#11",
+      "kind": "software (JAX, \"GitHub\")",
+      "note": "Software on GitHub (MeasureMe, 2026), cited as \"Note: GitHub\"."
+    },
+    {
+      "case": "arxiv-html:2610.39074#27",
+      "kind": "software (JAX, \"GitHub\")",
+      "note": "Software archived on Zenodo (QCoDeS, 2026), cited as \"Note: Zenodo\" with no version DOI."
+    },
+    {
+      "case": "arxiv-html:2610.39086#1",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A language model's model card or documentation page on its company's web site (2026), cited by the model's name only; not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.39086#2",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A language model's model card or documentation page on its company's web site (2026), cited by the model's name only; not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.39086#4",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A language model's model card or documentation page on its company's web site (2026), cited by the model's name only; not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.39086#5",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A language model's model card or documentation page on its company's web site (2026), cited by the model's name only; not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.39086#11",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A language model's model card or documentation page on its company's web site (2026), cited by the model's name only; not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.39086#12",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A language model's model card or documentation page on its company's web site (2026), cited by the model's name only; not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.39086#14",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A language model's model card or documentation page on its company's web site (2026), cited by the model's name only; not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.39086#15",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A language model's model card or documentation page on its company's web site (2026), cited by the model's name only; not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.39086#17",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A language model's model card or documentation page on its company's web site (2026), cited by the model's name only; not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.39086#21",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A language model's model card or documentation page on its company's web site (2026), cited by the model's name only; not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.39097#9",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A blog post (The Grumpy Economist, 2012)."
+    },
+    {
+      "case": "arxiv-html:2610.39097#14",
+      "kind": "news article",
+      "note": "A Bloomberg news article (2026)."
+    },
+    {
+      "case": "arxiv-html:2610.39097#15",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "A broker's quantitative research report (Crédit Agricole Cheuvreux, 2012), cited as \"Technical report\"."
+    },
+    {
+      "case": "arxiv-html:2610.39097#21",
+      "kind": "website, software page, talk or dataset page",
+      "note": "A fund company's corporate web page (2026), cited as \"corporate website\"."
+    },
+    {
+      "case": "arxiv-html:2610.27412#39",
+      "kind": "dataset (Kaggle, Hugging Face, CIFAR page)",
+      "note": "The NIMS SuperCon database, cited with its DataCite DOI 10.48505/nims.3739 (2022); its record is a dataset titled \"MDR SuperCon Datasheet\", not a publication."
+    },
+    {
+      "case": "arxiv-html:2610.28357#28",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "Haenni, \"Ignoring ignorance is ignorant\", a working paper of a university research group (2003); in no database."
+    },
+    {
+      "case": "arxiv-html:2610.41104#20",
+      "kind": "website, software page, talk or dataset page",
+      "note": "K. Jordan et al., \"Muon: an optimizer for hidden layers in neural networks\", a blog post on the author's web site, cited with its URL."
+    },
+    {
+      "case": "arxiv-html:2610.41111#3",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Google Maps Platform, Solar API documentation page (2026), cited with its URL."
+    },
+    {
+      "case": "arxiv-html:2610.41111#18",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Clay Foundation, \"Clay foundation model\", the project's web site (2024), cited with its URL."
+    },
+    {
+      "case": "arxiv-html:2610.41111#20",
+      "kind": "dataset (Kaggle, Hugging Face, CIFAR page)",
+      "note": "OpenAddresses batch data download page (2026), cited with its URL."
+    },
+    {
+      "case": "arxiv-html:2610.41107#33",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "A. Krizhevsky, \"Learning multiple layers of features from tiny images\", technical report, University of Toronto (2009), the CIFAR report; not in Crossref."
+    },
+    {
+      "case": "arxiv-html:2610.41101#15",
+      "kind": "website, software page, talk or dataset page",
+      "note": "NIST Digital Library of Mathematical Functions, section 25.12 (release 1.2.8, 2026), an online reference cited with its URL."
+    },
+    {
+      "case": "arxiv-html:2610.41103#13",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "Hogan et al., \"Beyond the crisis: rethinking the European electricity market\", a report for the French energy regulator CRE (2022), cited as \"Tech. Rep.\"."
+    },
+    {
+      "case": "arxiv-html:2610.41103#30",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "Abada and Ehrenmann, Cambridge Working Papers in Economics 2525 (2025), a university working paper cited with its RePEc address."
+    },
+    {
+      "case": "arxiv-html:2610.41103#35",
+      "kind": "software (JAX, \"GitHub\")",
+      "note": "GenX.jl (GenXProject), a software release, cited by its version."
+    },
+    {
+      "case": "arxiv-html:2610.39147#4",
+      "kind": "journal not in Crossref (Sov. Phys. JETP; Sitzungsber. Preuss. Akad. 1916-18)",
+      "note": "Banzhaf, Rutgers Law Review 19 (1965): the law review of that year is not in Crossref or OpenAlex. Now Can't check (a titled paper from before 1970 that nothing matched)."
+    },
+    {
+      "case": "arxiv-html:2610.39074#21",
+      "kind": "journal not in Crossref (Sov. Phys. JETP; Sitzungsber. Preuss. Akad. 1916-18)",
+      "note": "Lifshitz and Kosevich, Sov. Phys. JETP 2 (1956): not in Crossref or OpenAlex. Now Can't check (a titled paper from before 1970 that nothing matched)."
+    },
+    {
+      "case": "arxiv-html:2610.39072#20",
+      "kind": "website, software page, talk or dataset page",
+      "note": "Macklin, \"Warp: A high-performance Python framework for GPU simulation and graphics\", a talk at NVIDIA GTC 2022 about a software library, cited with its GitHub address. Now Can't check (a software talk)."
+    },
+    {
+      "case": "arxiv-html:2610.40280#28",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "Y. LeCun, \"A path towards autonomous machine intelligence\", a position paper (version 0.9.2) posted on OpenReview outside any venue; no database record. Now Can't check instead of a match with another paper."
+    },
+    {
+      "case": "arxiv-html:2610.39097#20",
+      "kind": "technical report / grey literature or data with a URL",
+      "note": "A fund's regulatory filing with the U.S. SEC (Form N-1A amendment, 2026), cited by its accession number. Now Can't check instead of a match with a reference-work entry titled with the agency's name."
+    },
+    {
+      "case": "arxiv-pdf:2610.28399#33",
+      "kind": "journal not in Crossref (Sov. Phys. JETP; Sitzungsber. Preuss. Akad. 1916-18)",
+      "note": "L. Autonne, Ann. Univ. Lyon Nouv. Sér. I Fasc. 38, 1 (1915), a title-less citation of a university annals volume of 1915 that no database holds; newly read from the PDF."
+    }
+  ]
+}

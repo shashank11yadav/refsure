@@ -1,0 +1,14 @@
+/* The welcome page: one calm column. Tokens and statuses live in src/ui/theme.css. */
+body { font-size: 1rem; }
+#app { max-width: 42rem; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+.welcome { display: flex; flex-direction: column; gap: 2rem; }
+.welcome h1 { font-size: 2rem; line-height: 1.2; }
+.welcome h2 { font-size: 1.25rem; margin-bottom: 0.6rem; }
+.lead { font-size: 1.125rem; color: var(--muted); margin-top: 0.5rem; }
+.steps { padding-left: 1.4rem; display: flex; flex-direction: column; gap: 0.4rem; }
+.hint { color: var(--muted); font-size: 0.9375rem; margin-top: 0.6rem; }
+.status-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 0.6rem; }
+.status-list li { display: grid; grid-template-columns: 11rem 1fr; gap: 0.75rem; align-items: center; }
+.status-list .status { justify-self: start; }
+.privacy { padding: 1rem 1.1rem; background: var(--surface); border: 0.0625rem solid var(--line); border-radius: 0.75rem; }
+@media (max-width: 34rem) { .status-list li { grid-template-columns: 1fr; gap: 0.25rem; } }

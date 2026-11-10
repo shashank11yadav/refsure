@@ -1,0 +1,91 @@
+{
+ "result": {
+  "query": "attention is all you need vaswani",
+  "status": {
+   "@code": "200",
+   "text": "OK"
+  },
+  "time": {
+   "@unit": "msecs",
+   "text": "3.1"
+  },
+  "completions": {
+   "@total": "0",
+   "@computed": "0",
+   "@sent": "0"
+  },
+  "hits": {
+   "@total": "3",
+   "@computed": "3",
+   "@sent": "3",
+   "@first": "0",
+   "hit": [
+    {
+     "@score": "9",
+     "@id": "1",
+     "info": {
+      "authors": {
+       "author": [
+        {
+         "@pid": "v/AshishVaswani",
+         "text": "Ashish Vaswani"
+        },
+        {
+         "@pid": "s/NoamShazeer",
+         "text": "Noam Shazeer"
+        },
+        {
+         "@pid": "p/NikiParmar",
+         "text": "Niki Parmar"
+        }
+       ]
+      },
+      "title": "Attention is All you Need.",
+      "venue": "NIPS",
+      "pages": "5998-6008",
+      "year": "2017",
+      "type": "Conference and Workshop Papers",
+      "key": "conf/nips/VaswaniSPUJGKP17",
+      "ee": "https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html",
+      "url": "https://dblp.org/rec/conf/nips/VaswaniSPUJGKP17"
+     }
+    },
+    {
+     "@score": "8",
+     "@id": "2",
+     "info": {
+      "authors": {
+       "author": {
+        "@pid": "x/Smith",
+        "text": "John Smith 0001"
+       }
+      },
+      "title": "A Survey of Attention.",
+      "venue": "CoRR",
+      "volume": "abs/1706.03762",
+      "year": "2017",
+      "type": "Informal and Other Publications",
+      "key": "journals/corr/VaswaniSPUJGKP17",
+      "doi": "10.48550/ARXIV.1706.03762",
+      "ee": "https://arxiv.org/abs/1706.03762",
+      "url": "https://dblp.org/rec/journals/corr/VaswaniSPUJGKP17"
+     }
+    },
+    {
+     "@score": "7",
+     "@id": "3",
+     "info": {
+      "title": "Untitled authorless entry",
+      "venue": [
+       "ICML",
+       "Workshop"
+      ],
+      "year": "20x7",
+      "key": "conf/icml/x",
+      "doi": "not a doi"
+     }
+    }
+   ]
+  }
+ }
+}
